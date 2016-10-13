@@ -1,0 +1,4181 @@
+# Ten plik viminfo został wygenerowany przez Vima 7.4.
+# Możesz go ostrożnie edytować!
+
+# Viminfo version
+|1,4
+
+# Wartość 'encoding' w czasie zapisu tego pliku
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Ostatni Wyszukiwany wzorzec:
+~MSle0~/T_INMOD_KLI
+
+# Ostatni Podstawienie Wyszukiwany wzorzec:
+~MSle0&\\
+
+# Ostatni podstawiany ciąg:
+$\/
+
+# Wiersz poleceń Historia (od najnowszych po najstarsze):
+:wq
+|2,0,1476192239,,"wq"
+:r T_INMOD_ADS_LISTA.sql
+|2,0,1476192235,,"r T_INMOD_ADS_LISTA.sql"
+:w
+|2,0,1476191737,,"w"
+:q
+|2,0,1476109185,,"q"
+:q!
+|2,0,1476109127,,"q!"
+:RmVimball (2).vmb/\"/
+|2,0,1476109083,,"RmVimball (2).vmb/\\\"/"
+:RmVimball "Nvim-R (2).vmb"
+|2,0,1476109063,,"RmVimball \"Nvim-R (2).vmb\""
+:RmVimball Nvim-R (2).vmb
+|2,0,1476109044,,"RmVimball Nvim-R (2).vmb"
+:help :RmVimball
+|2,0,1476108945,,"help :RmVimball"
+:e ~/.vim/.VimballRecord
+|2,0,1476108463,,"e ~/.vim/.VimballRecord"
+:bd
+|2,0,1476108441,,"bd"
+:e /.vim/.VimballRecord
+|2,0,1476108429,,"e /.vim/.VimballRecord"
+:so %
+|2,0,1476108142,,"so %"
+:%d
+|2,0,1476101206,,"%d"
+:wqa
+|2,0,1476096342,,"wqa"
+:e ~/.vimrc
+|2,0,1476091935,,"e ~/.vimrc"
+:colorscheme obsidian
+|2,0,1476091912,,"colorscheme obsidian"
+:w | bd
+|2,0,1476091398,,"w | bd"
+:e T_INMOD_AKTYWNI.sql
+|2,0,1476091373,,"e T_INMOD_AKTYWNI.sql"
+:%s/\\/\//gc
+|2,0,1475831234,,"%s/\\\\/\\//gc"
+:%s/
+|2,0,1475831199,,"%s/"
+:122,128d
+|2,0,1475829469,,"122,128d"
+:119,123y
+|2,0,1475829454,,"119,123y"
+:r T_INMOD_E_ADS_M_02.sql
+|2,0,1475757935,,"r T_INMOD_E_ADS_M_02.sql"
+:e T_INMOD_E_ADS_M_02.sql
+|2,0,1475757652,,"e T_INMOD_E_ADS_M_02.sql"
+:e T
+|2,0,1475757633,,"e T"
+:r T_INMOD_E_ADS_M_01.sql
+|2,0,1475757621,,"r T_INMOD_E_ADS_M_01.sql"
+:buffers
+|2,0,1475757108,,"buffers"
+:e T_INMOD_E_ADS_M_01.sql
+|2,0,1475757101,,"e T_INMOD_E_ADS_M_01.sql"
+:r T_INMOD_E_ADS_D_01.sql
+|2,0,1475756969,,"r T_INMOD_E_ADS_D_01.sql"
+:3,$d
+|2,0,1475756498,,"3,$d"
+:3,%d
+|2,0,1475756491,,"3,%d"
+:41,$y
+|2,0,1475673297,,"41,$y"
+:41,%y
+|2,0,1475673288,,"41,%y"
+:6p
+|2,0,1475673252,,"6p"
+:28,34y
+|2,0,1475673247,,"28,34y"
+:8,38s/insert_buda_static//gc
+|2,0,1475672258,,"8,38s/insert_buda_static//gc"
+:3,5y
+|2,0,1475672042,,"3,5y"
+:r T_INMOD_BUDA_STATIC.sql
+|2,0,1475665182,,"r T_INMOD_BUDA_STATIC.sql"
+:e rebuild_db.sql
+|2,0,1475665153,,"e rebuild_db.sql"
+:r T_INMOD_KLIENT_BAZA.sql
+|2,0,1475661954,,"r T_INMOD_KLIENT_BAZA.sql"
+:r T_V_DM_PRZYP_KON_KLI.sql
+|2,0,1475661438,,"r T_V_DM_PRZYP_KON_KLI.sql"
+:r T_V_DM_KLIENT_.sql
+|2,0,1475661426,,"r T_V_DM_KLIENT_.sql"
+:140,166d
+|2,0,1475661395,,"140,166d"
+:r T_INMOD_WNIOSKI_DOCH.sql
+|2,0,1475661361,,"r T_INMOD_WNIOSKI_DOCH.sql"
+:e T_INMOD_PRZELEWY.sql
+|2,0,1475661230,,"e T_INMOD_PRZELEWY.sql"
+:e T_INMOD_STATS.sql
+|2,0,1475661222,,"e T_INMOD_STATS.sql"
+:r T_INMOD_PRZELEWY.sql
+|2,0,1475661188,,"r T_INMOD_PRZELEWY.sql"
+:r T_INMOD_BIK.sql
+|2,0,1475661154,,"r T_INMOD_BIK.sql"
+:w T_INMOD_TRANSAKCJE.sql
+|2,0,1475661101,,"w T_INMOD_TRANSAKCJE.sql"
+:r T_INMOD_TRANSAKCJE.sql
+|2,0,1475660286,,"r T_INMOD_TRANSAKCJE.sql"
+:r T_INMOD_STATS.sql
+|2,0,1475660279,,"r T_INMOD_STATS.sql"
+:! rm T_INMOD_BUDA.sql
+|2,0,1475660133,,"! rm T_INMOD_BUDA.sql"
+:e T_INMOD_KLIENT_BAZA.sql
+|2,0,1475660105,,"e T_INMOD_KLIENT_BAZA.sql"
+:148,$d
+|2,0,1475660007,,"148,$d"
+:r T_INMOD_BUDA.sql
+|2,0,1475659942,,"r T_INMOD_BUDA.sql"
+:%s/pl3/V_PL_OF_03
+|2,0,1475582386,,"%s/pl3/V_PL_OF_03"
+:%s/pl2/V_PL_OF_02
+|2,0,1475582379,,"%s/pl2/V_PL_OF_02"
+:%s/pl1/V_PL_OF_01
+|2,0,1475582369,,"%s/pl1/V_PL_OF_01"
+:6,42v
+|2,0,1475581682,,"6,42v"
+:6,42V
+|2,0,1475581672,,"6,42V"
+:76,85s/OF_/pl3.OF_/gc
+|2,0,1475581605,,"76,85s/OF_/pl3.OF_/gc"
+:76,s/OF_/pl2.OF_/gc
+|2,0,1475581591,,"76,s/OF_/pl2.OF_/gc"
+:41,75s/OF_/pl2.OF_/gc
+|2,0,1475581548,,"41,75s/OF_/pl2.OF_/gc"
+:8,41s/OF_/pl1.OF_/gc
+|2,0,1475581488,,"8,41s/OF_/pl1.OF_/gc"
+:8,31s/OF_/pl1.OF_/gc
+|2,0,1475581446,,"8,31s/OF_/pl1.OF_/gc"
+:$%d
+|2,0,1475495686,,"$%d"
+:%s/KLIENT_BAZA/KLIENT_BAZA_STATIC/gc
+|2,0,1475492934,,"%s/KLIENT_BAZA/KLIENT_BAZA_STATIC/gc"
+:s/KLIENT_BAZA/KLIENT_BAZA_STATIC/gc
+|2,0,1475492920,,"s/KLIENT_BAZA/KLIENT_BAZA_STATIC/gc"
+:e NMK_WYDATKI_AC.sql
+|2,0,1475052125,,"e NMK_WYDATKI_AC.sql"
+:bd3
+|2,0,1475052118,,"bd3"
+:nd3
+|2,0,1475052114,,"nd3"
+:bd1
+|2,0,1475052111,,"bd1"
+:1,100bd
+|2,0,1475052060,,"1,100bd"
+:1,19bd
+|2,0,1475052052,,"1,19bd"
+:bd *
+|2,0,1475052020,,"bd *"
+:bd a
+|2,0,1475052006,,"bd a"
+:Explore
+|2,0,1475051971,,"Explore"
+:suspend
+|2,0,1474974913,,"suspend"
+:"
+|2,0,1474967070,,"\""
+:+y
+|2,0,1474967064,,"+y"
+:set spell
+|2,0,1474965895,,"set spell"
+:26"+y
+|2,0,1474965784,,"26\"+y"
+:'<,'>+y
+|2,0,1474621881,,"'<,'>+y"
+:2,10d
+|2,0,1474621308,,"2,10d"
+:s
+|2,0,1474547474,,"s"
+:38,39d
+|2,0,1474545833,,"38,39d"
+:35,36y
+|2,0,1474545809,,"35,36y"
+:s/wyraź
+|2,0,1474545475,,"s/wyraź"
+:! explore .
+|2,0,1474532426,,"! explore ."
+:W
+|2,0,1474384996,,"W"
+:8,11y
+|2,0,1474369090,,"8,11y"
+:spell
+|2,0,1474288506,,"spell"
+:qall
+|2,0,1474280149,,"qall"
+:e!
+|2,0,1474279982,,"e!"
+:source(~/.vimrc)
+|2,0,1474279972,,"source(~/.vimrc)"
+:bn
+|2,0,1473422802,,"bn"
+:split
+|2,0,1473422796,,"split"
+:e ads_single_date.sql
+|2,0,1473422788,,"e ads_single_date.sql"
+:help spell
+|2,0,1473412418,,"help spell"
+:20,27y
+|2,0,1473340452,,"20,27y"
+:8y
+|2,0,1473337625,,"8y"
+:121,146d
+|2,0,1473336573,,"121,146d"
+:3,8
+|2,0,1473333134,,"3,8"
+:3,8V
+|2,0,1473333125,,"3,8V"
+:3,8"+y
+|2,0,1473333108,,"3,8\"+y"
+:w\
+|2,0,1473333088,,"w\\"
+:%s/select/SELECT on
+|2,0,1473333086,,"%s/select/SELECT on"
+:%s/select/SELECT
+|2,0,1473333030,,"%s/select/SELECT"
+:%s/UI_WS15778/"UI_WS15778"/gc
+|2,0,1473332883,,"%s/UI_WS15778/\"UI_WS15778\"/gc"
+:wq!
+|2,0,1473084654,,"wq!"
+:319,413<
+|2,0,1473080188,,"319,413<"
+:319,413<<<<
+|2,0,1473080179,,"319,413<<<<"
+:277,302<
+|2,0,1473080142,,"277,302<"
+:277,302<<
+|2,0,1473080139,,"277,302<<"
+:277,302<<<<
+|2,0,1473080133,,"277,302<<<<"
+:119,213<<<<
+|2,0,1473080047,,"119,213<<<<"
+:119,213<<<<<<<<<
+|2,0,1473080021,,"119,213<<<<<<<<<"
+:119,213<<<<<<<<<<<<<
+|2,0,1473080013,,"119,213<<<<<<<<<<<<<"
+:78,105<<
+|2,0,1473079959,,"78,105<<"
+:78,105<
+|2,0,1473079955,,"78,105<"
+:78,105<<<<
+|2,0,1473079949,,"78,105<<<<"
+:78,105...jk<
+|2,0,1473079782,,"78,105...jk<"
+:78,105<4
+|2,0,1473079726,,"78,105<4"
+:14,24<
+|2,0,1473079336,,"14,24<"
+:13,24s/\//g
+|2,0,1473079309,,"13,24s/\\//g"
+:13,24s/\//
+|2,0,1473079303,,"13,24s/\\//"
+:13,24s////
+|2,0,1473079237,,"13,24s////"
+:13,24s/*/
+|2,0,1473079221,,"13,24s/*/"
+:e XX_makro_liniowoscTR.sas
+|2,0,1473078856,,"e XX_makro_liniowoscTR.sas"
+:r header.sas
+|2,0,1473077998,,"r header.sas"
+:qw
+|2,0,1473077728,,"qw"
+:2,$"+y
+|2,0,1473065696,,"2,$\"+y"
+:2,$"y+
+|2,0,1473065673,,"2,$\"y+"
+:%s/);/
+|2,0,1473065650,,"%s/);/"
+:%s/%var_stats(/
+|2,0,1473065634,,"%s/%var_stats(/"
+:2,27d
+|2,0,1472809081,,"2,27d"
+:e flaga_aktywnosci.sql
+|2,0,1472808771,,"e flaga_aktywnosci.sql"
+:e przelewy_stats.sql
+|2,0,1472808707,,"e przelewy_stats.sql"
+:split demografia.sql
+|2,0,1472808643,,"split demografia.sql"
+:r flaga_aktywnosci.sql
+|2,0,1472805913,,"r flaga_aktywnosci.sql"
+:e
+|2,0,1472740194,,"e"
+:.,$d
+|2,0,1472734848,,".,$d"
+:76,80>
+|2,0,1472734835,,"76,80>"
+:76,80>>
+|2,0,1472734821,,"76,80>>"
+:79,84y
+|2,0,1472734784,,"79,84y"
+:74,78y
+|2,0,1472734699,,"74,78y"
+:11,15y
+|2,0,1472734648,,"11,15y"
+:split XX_koszyki.sas
+|2,0,1472720730,,"split XX_koszyki.sas"
+:e XX_target.sas
+|2,0,1472659148,,"e XX_target.sas"
+:74,83d
+|2,0,1472659121,,"74,83d"
+:.,49d
+|2,0,1472658292,,".,49d"
+:62,74s/stats_unique/stats/gc
+|2,0,1472656548,,"62,74s/stats_unique/stats/gc"
+:83,97y
+|2,0,1472656482,,"83,97y"
+:83,97\cu
+|2,0,1472656423,,"83,97\\cu"
+:suspend 
+|2,0,1472648419,,"suspend "
+:11,55d
+|2,0,1472644350,,"11,55d"
+:91,$s/stats_final/stats_unique/gc
+|2,0,1472644308,,"91,$s/stats_final/stats_unique/gc"
+:91,$s/stats/stats_final/gc
+|2,0,1472644122,,"91,$s/stats/stats_final/gc"
+:39,51y
+|2,0,1472643952,,"39,51y"
+:5,32y
+|2,0,1472640445,,"5,32y"
+:9,17y
+|2,0,1472637429,,"9,17y"
+:10,$d
+|2,0,1472637407,,"10,$d"
+:split XX_ZM_C.sas
+|2,0,1472637345,,"split XX_ZM_C.sas"
+:e XX_ZM_N.sas
+|2,0,1472637078,,"e XX_ZM_N.sas"
+:27,32y
+|2,0,1472631788,,"27,32y"
+:34, 62d
+|2,0,1472631755,,"34, 62d"
+:e XX_ZM_C.sas
+|2,0,1472631514,,"e XX_ZM_C.sas"
+:d
+|2,0,1472628862,,"d"
+:e karty_stats.sql
+|2,0,1472628835,,"e karty_stats.sql"
+:5,6y
+|2,0,1472628699,,"5,6y"
+:e demografia.sql
+|2,0,1472628679,,"e demografia.sql"
+:split bik_stats.sql
+|2,0,1472627984,,"split bik_stats.sql"
+:a
+|2,0,1472566756,,"a"
+:92,103d
+|2,0,1472566478,,"92,103d"
+:11,12y
+|2,0,1472566209,,"11,12y"
+:45,49>>
+|2,0,1472563962,,"45,49>>"
+:53,$d
+|2,0,1472563875,,"53,$d"
+:52,Gd
+|2,0,1472563845,,"52,Gd"
+:17,18d
+|2,0,1472563827,,"17,18d"
+:19,41s/, b./, c./g
+|2,0,1472563800,,"19,41s/, b./, c./g"
+:33,55y
+|2,0,1472563750,,"33,55y"
+:18,21y
+|2,0,1472563700,,"18,21y"
+:50d
+|2,0,1472563063,,"50d"
+:22,23d
+|2,0,1472563053,,"22,23d"
+:22,23d\
+|2,0,1472563049,,"22,23d\\"
+:20d
+|2,0,1472563018,,"20d"
+:135,140y
+|2,0,1472559495,,"135,140y"
+:118,124y | p
+|2,0,1472559398,,"118,124y | p"
+:118,124y p
+|2,0,1472559384,,"118,124y p"
+:118,124y | 125p
+|2,0,1472559309,,"118,124y | 125p"
+:115,
+|2,0,1472559137,,"115,"
+:102,106y | 107p
+|2,0,1472558966,,"102,106y | 107p"
+:102,106y | p
+|2,0,1472558955,,"102,106y | p"
+:87,92y
+|2,0,1472557912,,"87,92y"
+:58,85s/PRZYCH = 1/PRZYCH=0/g
+|2,0,1472557469,,"58,85s/PRZYCH = 1/PRZYCH=0/g"
+:59,78s/PRZYCH/WYCH/gc
+|2,0,1472557317,,"59,78s/PRZYCH/WYCH/gc"
+:80,90d
+|2,0,1472557143,,"80,90d"
+:80,90dd
+|2,0,1472557117,,"80,90dd"
+:bd!
+|2,0,1472556188,,"bd!"
+:split karty_stats.sql
+|2,0,1472556023,,"split karty_stats.sql"
+:%s/3M/6M/gc
+|2,0,1472553185,,"%s/3M/6M/gc"
+:r przelewy_stats.sql
+|2,0,1472548301,,"r przelewy_stats.sql"
+:r karty_stats.sql
+|2,0,1472548293,,"r karty_stats.sql"
+:%s/V2/T/gc
+|2,0,1472467066,,"%s/V2/T/gc"
+:r klient.sql
+|2,0,1472463621,,"r klient.sql"
+:e ../przelewy/
+|2,0,1472463489,,"e ../przelewy/"
+:split klient.sql
+|2,0,1472462619,,"split klient.sql"
+:b#
+|2,0,1472217900,,"b#"
+:bd 8
+|2,0,1472200644,,"bd 8"
+:w readme.md
+|2,0,1472029131,,"w readme.md"
+:e new
+|2,0,1472029122,,"e new"
+:!explorer .
+|2,0,1472028507,,"!explorer ."
+:split XX_copy_data.sas
+|2,0,1472028051,,"split XX_copy_data.sas"
+:Explorer
+|2,0,1472027833,,"Explorer"
+:wa
+|2,0,1471936880,,"wa"
+:r dmkk_przelewy.sql
+|2,0,1471863428,,"r dmkk_przelewy.sql"
+:set dictionary+=./hdd99_dm_dmkk_colnames.tsv
+|2,0,1471863143,,"set dictionary+=./hdd99_dm_dmkk_colnames.tsv"
+:set ruler
+|2,0,1470397523,,"set ruler"
+:"wq
+|2,0,1470381628,,"\"wq"
+:source! ~/.vimrc
+|2,0,1470381406,,"source! ~/.vimrc"
+:source ~/.vimrc
+|2,0,1470381385,,"source ~/.vimrc"
+:%s/-- create view/create view/gc
+|2,0,1470303977,,"%s/-- create view/create view/gc"
+:e dmkk_przelewy_sandbox.sql
+|2,0,1470303960,,"e dmkk_przelewy_sandbox.sql"
+:w! dmkk_przelewy_sandbox.sql
+|2,0,1470303955,,"w! dmkk_przelewy_sandbox.sql"
+:w dmkk_przelewy_sandbox.sql
+|2,0,1470303946,,"w dmkk_przelewy_sandbox.sql"
+:r dmkk_przelewy_sandbox.sql
+|2,0,1470303908,,"r dmkk_przelewy_sandbox.sql"
+:%s/create view/-- create view/gc
+|2,0,1470303672,,"%s/create view/-- create view/gc"
+:w ../../analiza_danych/
+|2,0,1470303592,,"w ../../analiza_danych/"
+:set  dictionary+=./hdd99_dm_dmkk_colnames.tsv
+|2,0,1470298745,,"set  dictionary+=./hdd99_dm_dmkk_colnames.tsv"
+:%s/"//gc
+|2,0,1470298653,,"%s/\"//gc"
+:e hdd99_dm_dmkk_colnames.tsv
+|2,0,1470298632,,"e hdd99_dm_dmkk_colnames.tsv"
+:w!
+|2,0,1470298617,,"w!"
+:split XX_wnioski.sas
+|2,0,1470235024,,"split XX_wnioski.sas"
+:split XX_oferta.sas
+|2,0,1470235007,,"split XX_oferta.sas"
+:e ../analiza/
+|2,0,1470224318,,"e ../analiza/"
+:buffer
+|2,0,1470224299,,"buffer"
+:buffors
+|2,0,1470224296,,"buffors"
+:e src/XX_wnioski.sas
+|2,0,1470223910,,"e src/XX_wnioski.sas"
+:waq
+|2,0,1470049637,,"waq"
+:split sim.py
+|2,0,1470043096,,"split sim.py"
+:.ll
+|2,0,1470042931,,".ll"
+:split lgd_calc.py
+|2,0,1469801837,,"split lgd_calc.py"
+:e cre.py
+|2,0,1469801778,,"e cre.py"
+:Wa
+|2,0,1469801288,,"Wa"
+:%s/sims/cfs/gc
+|2,0,1469800345,,"%s/sims/cfs/gc"
+:e lgd_calc.py
+|2,0,1469798307,,"e lgd_calc.py"
+:e sim.py
+|2,0,1469798282,,"e sim.py"
+:b
+|2,0,1469795083,,"b"
+:buffers 
+|2,0,1469795071,,"buffers "
+:ip
+|2,0,1469794537,,"ip"
+:split cre.py
+|2,0,1469787874,,"split cre.py"
+:bd 1 2 7
+|2,0,1469707394,,"bd 1 2 7"
+:db 2 3 7
+|2,0,1469707378,,"db 2 3 7"
+:b 1
+|2,0,1469705788,,"b 1"
+:b `
+|2,0,1469705785,,"b `"
+:b 3
+|2,0,1469705757,,"b 3"
+:b1
+|2,0,1469705729,,"b1"
+:bs
+|2,0,1469705719,,"bs"
+:b 2
+|2,0,1469705623,,"b 2"
+:buffer 2
+|2,0,1469705612,,"buffer 2"
+:buffer 1
+|2,0,1469705607,,"buffer 1"
+:r cf.py
+|2,0,1469625080,,"r cf.py"
+:bd 11
+|2,0,1469622382,,"bd 11"
+:q 2
+|2,0,1469622365,,"q 2"
+:split cf.py
+|2,0,1469612623,,"split cf.py"
+:e phi_inv.py
+|2,0,1469611640,,"e phi_inv.py"
+:%s/HDB_STAR /HDB_START /g
+|2,0,1469007226,,"%s/HDB_STAR /HDB_START /g"
+:%s/HDB_STAR/HDB_START/g
+|2,0,1469007189,,"%s/HDB_STAR/HDB_START/g"
+:set dictionary+=HDD_DSA_BIK_colnames.csv
+|2,0,1469003342,,"set dictionary+=HDD_DSA_BIK_colnames.csv"
+:%s/"/
+|2,0,1469003302,,"%s/\"/"
+:e HDD_DSA_BIK_colnames.csv
+|2,0,1469003275,,"e HDD_DSA_BIK_colnames.csv"
+:vsplit v_bk_kredyt.sql
+|2,0,1468939419,,"vsplit v_bk_kredyt.sql"
+:w v_bk_kredyt.sql
+|2,0,1468938968,,"w v_bk_kredyt.sql"
+:new
+|2,0,1468938898,,"new"
+:vsplit
+|2,0,1468938876,,"vsplit"
+:v new
+|2,0,1468938868,,"v new"
+:r bik_raport.sql
+|2,0,1468925920,,"r bik_raport.sql"
+:split bik_raport.sql
+|2,0,1468925902,,"split bik_raport.sql"
+:e bik_kredyt.sql
+|2,0,1468925853,,"e bik_kredyt.sql"
+:enew bik_kredyt.sql
+|2,0,1468925843,,"enew bik_kredyt.sql"
+:r bik_wniosek.sql
+|2,0,1468924262,,"r bik_wniosek.sql"
+:split bik_wniosek.sql
+|2,0,1468920657,,"split bik_wniosek.sql"
+:e bik_raport.sql
+|2,0,1468920618,,"e bik_raport.sql"
+:colorscheme desert
+|2,0,1468920391,,"colorscheme desert"
+:colorscheme zenburn
+|2,0,1468920384,,"colorscheme zenburn"
+:colorscheme default
+|2,0,1468920373,,"colorscheme default"
+:r hdd_data_import.sas
+|2,0,1468835590,,"r hdd_data_import.sas"
+:w header.sas
+|2,0,1468835521,,"w header.sas"
+:enew
+|2,0,1468835510,,"enew"
+:colorscheme DevC++
+|2,0,1468834158,,"colorscheme DevC++"
+:colorscheme delek
+|2,0,1468834142,,"colorscheme delek"
+:Q
+|2,0,1468833980,,"Q"
+:Wq
+|2,0,1468833824,,"Wq"
+:q:q!
+|2,0,1468830802,,"q:q!"
+:w install.sh
+|2,0,1468828272,,"w install.sh"
+:e header.sas
+|2,0,0,,"e header.sas"
+:'<,'>*y
+|2,0,0,,"'<,'>*y"
+:"y*
+|2,0,0,,"\"y*"
+:y*
+|2,0,0,,"y*"
+:bd\
+|2,0,0,,"bd\\"
+:split klienci_proba.sql
+|2,0,0,,"split klienci_proba.sql"
+:split ../ads_data_quality/
+|2,0,0,,"split ../ads_data_quality/"
+:make
+|2,0,0,,"make"
+:r sql/dmkk_dochod.sql
+|2,0,0,,"r sql/dmkk_dochod.sql"
+:r sql/uniflow_dochod.sql
+|2,0,0,,"r sql/uniflow_dochod.sql"
+:e 2
+|2,0,0,,"e 2"
+:w! libnames.sas
+|2,0,0,,"w! libnames.sas"
+:w! header.sas
+|2,0,0,,"w! header.sas"
+:r data_review.sas
+|2,0,0,,"r data_review.sas"
+:'<,'>.ll
+|2,0,0,,"'<,'>.ll"
+:buffer 7
+|2,0,0,,"buffer 7"
+:split buffer 7
+|2,0,0,,"split buffer 7"
+:split ../database/selecter.py
+|2,0,0,,"split ../database/selecter.py"
+:e ../database/selecter.py
+|2,0,0,,"e ../database/selecter.py"
+:bunload
+|2,0,0,,"bunload"
+:split ../runtests.py
+|2,0,0,,"split ../runtests.py"
+:e ../logic/matcher.py
+|2,0,0,,"e ../logic/matcher.py"
+:r test_database.py
+|2,0,0,,"r test_database.py"
+:e testing/test_database.py
+|2,0,0,,"e testing/test_database.py"
+:split testing/test_logic.py
+|2,0,0,,"split testing/test_logic.py"
+:split ../testing/test_database.py
+|2,0,0,,"split ../testing/test_database.py"
+:spell en
+|2,0,0,,"spell en"
+:Exp
+|2,0,0,,"Exp"
+:PymodeRun
+|2,0,0,,"PymodeRun"
+:e inserter.py
+|2,0,0,,"e inserter.py"
+:e ../database/creater.py
+|2,0,0,,"e ../database/creater.py"
+:e base.py
+|2,0,0,,"e base.py"
+:PymodeRopeRegenerate
+|2,0,0,,"PymodeRopeRegenerate"
+:qa
+|2,0,0,,"qa"
+:PymodeRun\
+|2,0,0,,"PymodeRun\\"
+:db
+|2,0,0,,"db"
+:b2
+|2,0,0,,"b2"
+:split ../main.py
+|2,0,0,,"split ../main.py"
+:b7
+|2,0,0,,"b7"
+:.buffers
+|2,0,0,,".buffers"
+:b 
+|2,0,0,,"b "
+:e ../testing/test_database.py
+|2,0,0,,"e ../testing/test_database.py"
+:e ../testing/test_files.py
+|2,0,0,,"e ../testing/test_files.py"
+:e ../runtests.py
+|2,0,0,,"e ../runtests.py"
+:e runtests.py
+|2,0,0,,"e runtests.py"
+:"w
+|2,0,0,,"\"w"
+:split ../database/inserter.py
+|2,0,0,,"split ../database/inserter.py"
+:split base.py
+|2,0,0,,"split base.py"
+:bd 7
+|2,0,0,,"bd 7"
+:'<,'>.cc
+|2,0,0,,"'<,'>.cc"
+:e ../files/freader.py
+|2,0,0,,"e ../files/freader.py"
+:e creater.py
+|2,0,0,,"e creater.py"
+:'<,'>w
+|2,0,0,,"'<,'>w"
+:help nerdcom
+|2,0,0,,"help nerdcom"
+::w
+|2,0,0,,":w"
+:split ../testing/test_files.py
+|2,0,0,,"split ../testing/test_files.py"
+:split test_database.py
+|2,0,0,,"split test_database.py"
+:vs test_database.py
+|2,0,0,,"vs test_database.py"
+:vs e test_database.py
+|2,0,0,,"vs e test_database.py"
+:e test_database.py
+|2,0,0,,"e test_database.py"
+:%s/  / /gc
+|2,0,0,,"%s/  / /gc"
+:PymodeRopeNewProject
+|2,0,0,,"PymodeRopeNewProject"
+:help fold
+|2,0,0,,"help fold"
+:q:
+|2,0,0,,"q:"
+:vs
+|2,0,0,,"vs"
+:bd10
+|2,0,0,,"bd10"
+:bd9
+|2,0,0,,"bd9"
+:bd8
+|2,0,0,,"bd8"
+:bd8;bd9
+|2,0,0,,"bd8;bd9"
+:db3
+|2,0,0,,"db3"
+:%s/table_defs/_table_defs/gc
+|2,0,0,,"%s/table_defs/_table_defs/gc"
+:1
+|2,0,0,,"1"
+:hs
+|2,0,0,,"hs"
+:colorscheme zenburbn
+|2,0,0,,"colorscheme zenburbn"
+:colorscheme industry
+|2,0,0,,"colorscheme industry"
+:colorscheme blue
+|2,0,0,,"colorscheme blue"
+:colorscheme slate
+|2,0,0,,"colorscheme slate"
+:colorschem pablo
+|2,0,0,,"colorschem pablo"
+:colorscheme murphy
+|2,0,0,,"colorscheme murphy"
+:colorscheme morning
+|2,0,0,,"colorscheme morning"
+:colorscheme evening
+|2,0,0,,"colorscheme evening"
+:colorscheme elflord
+|2,0,0,,"colorscheme elflord"
+:colorscheme darkblue
+|2,0,0,,"colorscheme darkblue"
+:r creater.py
+|2,0,0,,"r creater.py"
+:e selecter.py
+|2,0,0,,"e selecter.py"
+:r base.py
+|2,0,0,,"r base.py"
+:buffer ~/BD/ceidg_globus/src/main.py
+|2,0,0,,"buffer ~/BD/ceidg_globus/src/main.py"
+:buffer database/base.py
+|2,0,0,,"buffer database/base.py"
+:r ../main.py
+|2,0,0,,"r ../main.py"
+::
+|2,0,0,,":"
+:qa!
+|2,0,0,,"qa!"
+:Explore vsplit
+|2,0,0,,"Explore vsplit"
+:split Explorer
+|2,0,0,,"split Explorer"
+:python 
+|2,0,0,,"python "
+:buffer dsource.py
+|2,0,0,,"buffer dsource.py"
+:e run.py
+|2,0,0,,"e run.py"
+:e matcher.py
+|2,0,0,,"e matcher.py"
+:r matcher.py
+|2,0,0,,"r matcher.py"
+:e dsource.py
+|2,0,0,,"e dsource.py"
+:Vsplit
+|2,0,0,,"Vsplit"
+:bNext
+|2,0,0,,"bNext"
+:setlocal foldmethod=syntax
+|2,0,0,,"setlocal foldmethod=syntax"
+:! head ../data/krs.csv
+|2,0,0,,"! head ../data/krs.csv"
+:!rm new
+|2,0,0,,"!rm new"
+:w! run.py
+|2,0,0,,"w! run.py"
+:w run.py
+|2,0,0,,"w run.py"
+:!ls
+|2,0,0,,"!ls"
+:syspend
+|2,0,0,,"syspend"
+:e ../.gitignore
+|2,0,0,,"e ../.gitignore"
+: e dhd_backtest.R
+|2,0,0,," e dhd_backtest.R"
+:r dkb_dhd_names_match.R
+|2,0,0,,"r dkb_dhd_names_match.R"
+:e ads_types_check.R
+|2,0,0,,"e ads_types_check.R"
+:%s/d2/d3/gc
+|2,0,0,,"%s/d2/d3/gc"
+:%s/b2/b3/gc
+|2,0,0,,"%s/b2/b3/gc"
+:%/$//
+|2,0,0,,"%/$//"
+:Print
+|2,0,0,,"Print"
+:qwa
+|2,0,0,,"qwa"
+:e dhd_ads_backtest.R
+|2,0,0,,"e dhd_ads_backtest.R"
+:":
+|2,0,0,,"\":"
+:e ../../../ds_workspace/NewModel.R
+|2,0,0,,"e ../../../ds_workspace/NewModel.R"
+:'<,'>
+|2,0,0,,"'<,'>"
+:e dkb_dhd_names_match.R
+|2,0,0,,"e dkb_dhd_names_match.R"
+:e ../src/ads_data_load.R
+|2,0,0,,"e ../src/ads_data_load.R"
+:buffer factors_values.R
+|2,0,0,,"buffer factors_values.R"
+:e ads_data_load.R
+|2,0,0,,"e ads_data_load.R"
+:r ../../ds_workspace/NewModel.R
+|2,0,0,,"r ../../ds_workspace/NewModel.R"
+:colorscheme torte
+|2,0,0,,"colorscheme torte"
+:colorscheme shine
+|2,0,0,,"colorscheme shine"
+:wq text.txt
+|2,0,0,,"wq text.txt"
+:r rpa_data.sas
+|2,0,0,,"r rpa_data.sas"
+:?
+|2,0,0,,"?"
+:vert buffer 1
+|2,0,0,,"vert buffer 1"
+:vert Explore
+|2,0,0,,"vert Explore"
+:r 06_deals.sas
+|2,0,0,,"r 06_deals.sas"
+:r data_merge.sas
+|2,0,0,,"r data_merge.sas"
+:r data_import.sas
+|2,0,0,,"r data_import.sas"
+:e data_merge.sas
+|2,0,0,,"e data_merge.sas"
+:r 00_libnames.sas
+|2,0,0,,"r 00_libnames.sas"
+:r buffer 1
+|2,0,0,,"r buffer 1"
+:r XX_proto.sas
+|2,0,0,,"r XX_proto.sas"
+:r dmkk_import.sas
+|2,0,0,,"r dmkk_import.sas"
+:set nospell
+|2,0,0,,"set nospell"
+:Explore 
+|2,0,0,,"Explore "
+:e 06_deals.sas
+|2,0,0,,"e 06_deals.sas"
+:r 02_risk_free_rate.sas
+|2,0,0,,"r 02_risk_free_rate.sas"
+:r 02_swap_import.sas
+|2,0,0,,"r 02_swap_import.sas"
+:rewind
+|2,0,0,,"rewind"
+:vsplit income_analiza.sas
+|2,0,0,,"vsplit income_analiza.sas"
+:r libnames.sas
+|2,0,0,,"r libnames.sas"
+:r przel_anliza.sas
+|2,0,0,,"r przel_anliza.sas"
+:r przel_anali
+|2,0,0,,"r przel_anali"
+:set nosp
+|2,0,0,,"set nosp"
+:r 04_bonds_values.sas
+|2,0,0,,"r 04_bonds_values.sas"
+:w post.txt
+|2,0,0,,"w post.txt"
+:vs .
+|2,0,0,,"vs ."
+:q~
+|2,0,0,,"q~"
+:r 03_data_merge.sas
+|2,0,0,,"r 03_data_merge.sas"
+:r 01_bonds_import.sas
+|2,0,0,,"r 01_bonds_import.sas"
+:e 02_swap_import.sas
+|2,0,0,,"e 02_swap_import.sas"
+:r
+|2,0,0,,"r"
+:%S\\/\/\gc
+|2,0,0,,"%S\\\\/\\/\\gc"
+:/\\
+|2,0,0,,"/\\\\"
+:\//
+|2,0,0,,"\\//"
+:\\\
+|2,0,0,,"\\\\\\"
+:\\
+|2,0,0,,"\\\\"
+:echo @%
+|2,0,0,,"echo @%"
+:echo
+|2,0,0,,"echo"
+:echo %
+|2,0,0,,"echo %"
+:%s/in/out/gc
+|2,0,0,,"%s/in/out/gc"
+:%s/ino/./out/./gc
+|2,0,0,,"%s/ino/./out/./gc"
+:%s/ino\./out\./gc
+|2,0,0,,"%s/ino\\./out\\./gc"
+:%s/in./out./gc
+|2,0,0,,"%s/in./out./gc"
+:%s/ó/o/gc
+|2,0,0,,"%s/ó/o/gc"
+:%s/ł/l/gc
+|2,0,0,,"%s/ł/l/gc"
+:r ../prototyp/src/01_data_import.sas
+|2,0,0,,"r ../prototyp/src/01_data_import.sas"
+:!cl mail.txt
+|2,0,0,,"!cl mail.txt"
+:buffer 3
+|2,0,0,,"buffer 3"
+:vslip
+|2,0,0,,"vslip"
+:Vsplit buffer 1
+|2,0,0,,"Vsplit buffer 1"
+:q mail.txt
+|2,0,0,,"q mail.txt"
+:! cl mail.txt
+|2,0,0,,"! cl mail.txt"
+:w mail.txt
+|2,0,0,,"w mail.txt"
+:vsplit buffer 1
+|2,0,0,,"vsplit buffer 1"
+:vertical buffer 2
+|2,0,0,,"vertical buffer 2"
+:vert
+|2,0,0,,"vert"
+:Vbuffer 1
+|2,0,0,,"Vbuffer 1"
+:vertical
+|2,0,0,,"vertical"
+:v
+|2,0,0,,"v"
+:/dsafsd
+|2,0,0,,"/dsafsd"
+:set colorcolumn=0
+|2,0,0,,"set colorcolumn=0"
+:set colorcolumn 0
+|2,0,0,,"set colorcolumn 0"
+:e m.txt
+|2,0,0,,"e m.txt"
+:%s/ę/e
+|2,0,0,,"%s/ę/e"
+:%s/ę/s
+|2,0,0,,"%s/ę/s"
+:%s/ż/z/gc
+|2,0,0,,"%s/ż/z/gc"
+:%s/ś/s/gc
+|2,0,0,,"%s/ś/s/gc"
+:%s/ę/e/gc
+|2,0,0,,"%s/ę/e/gc"
+:%s/ą/a/gc
+|2,0,0,,"%s/ą/a/gc"
+:vs 2
+|2,0,0,,"vs 2"
+:! explorer .
+|2,0,0,,"! explorer ."
+:qq=!
+|2,0,0,,"qq=!"
+:e 
+|2,0,0,,"e "
+:vs,
+|2,0,0,,"vs,"
+:NERDTree
+|2,0,0,,"NERDTree"
+:sp
+|2,0,0,,"sp"
+:Explore v
+|2,0,0,,"Explore v"
+:Explore s
+|2,0,0,,"Explore s"
+::w ++enc=iso8859-2
+|2,0,0,,":w ++enc=iso8859-2"
+:e XTerm
+|2,0,0,,"e XTerm"
+:exit
+|2,0,0,,"exit"
+:e 02_data_merge.sas
+|2,0,0,,"e 02_data_merge.sas"
+:%s/:DAT/\&hdb_date./gc
+|2,0,0,,"%s/:DAT/\\&hdb_date./gc"
+:%s/:DAT/&hdb_date./gc
+|2,0,0,,"%s/:DAT/&hdb_date./gc"
+:%s/DAT/&hdb_date./gc
+|2,0,0,,"%s/DAT/&hdb_date./gc"
+:%s/\:DAT/&hdb_date./gc
+|2,0,0,,"%s/\\:DAT/&hdb_date./gc"
+:%s//:DAT/&hdb_date./gc
+|2,0,0,,"%s//:DAT/&hdb_date./gc"
+:%s/:DAT/&hdb_date/gc
+|2,0,0,,"%s/:DAT/&hdb_date/gc"
+:%s/:DAT/hdb_date/gc
+|2,0,0,,"%s/:DAT/hdb_date/gc"
+:e .vimrc
+|2,0,0,,"e .vimrc"
+:version
+|2,0,0,,"version"
+:python
+|2,0,0,,"python"
+:python print hello
+|2,0,0,,"python print hello"
+:e includes.h
+|2,0,0,,"e includes.h"
+:e func.h
+|2,0,0,,"e func.h"
+:a!
+|2,0,0,,"a!"
+:wqa!
+|2,0,0,,"wqa!"
+:w! ifrs.txt
+|2,0,0,,"w! ifrs.txt"
+:w ifrs.txt
+|2,0,0,,"w ifrs.txt"
+:r ifrs_pl.txt
+|2,0,0,,"r ifrs_pl.txt"
+:colorscheme ron
+|2,0,0,,"colorscheme ron"
+:colorscheme pablo
+|2,0,0,,"colorscheme pablo"
+:colorscheme koehler
+|2,0,0,,"colorscheme koehler"
+:e ifrs_pl.txt
+|2,0,0,,"e ifrs_pl.txt"
+:w ifrs_pl.txt
+|2,0,0,,"w ifrs_pl.txt"
+:w ifrs_de.txt
+|2,0,0,,"w ifrs_de.txt"
+:set
+|2,0,0,,"set"
+:q\
+|2,0,0,,"q\\"
+:w cygwin64.BoostParts.patch
+|2,0,0,,"w cygwin64.BoostParts.patch"
+:update
+|2,0,0,,"update"
+:r rstudio
+|2,0,0,,"r rstudio"
+:iii
+|2,0,0,,"iii"
+:! putclip < mail.txt
+|2,0,0,,"! putclip < mail.txt"
+:!putclip < bgd_kalk.sql
+|2,0,0,,"!putclip < bgd_kalk.sql"
+:set nocolorcolumn
+|2,0,0,,"set nocolorcolumn"
+:set colorcolumn=off
+|2,0,0,,"set colorcolumn=off"
+:set colorcolumn
+|2,0,0,,"set colorcolumn"
+:w ~/crd_banki/colnames.txt
+|2,0,0,,"w ~/crd_banki/colnames.txt"
+:e crd_query.sql
+|2,0,0,,"e crd_query.sql"
+:set colorcolumn=80
+|2,0,0,,"set colorcolumn=80"
+:r crd_querry_old.sql
+|2,0,0,,"r crd_querry_old.sql"
+:e ~/algs-1/w2/fib_mod.cpp
+|2,0,0,,"e ~/algs-1/w2/fib_mod.cpp"
+:%s/>> //gc
+|2,0,0,,"%s/>> //gc"
+:%s/>> /gc
+|2,0,0,,"%s/>> /gc"
+:r word
+|2,0,0,,"r word"
+:WQ
+|2,0,0,,"WQ"
+:e .bashrc
+|2,0,0,,"e .bashrc"
+:e .profile
+|2,0,0,,"e .profile"
+:e .profiler
+|2,0,0,,"e .profiler"
+:echo $VIMRUNTIME
+|2,0,0,,"echo $VIMRUNTIME"
+:echo $VIM
+|2,0,0,,"echo $VIM"
+
+# Szukany ciąg Historia (od najnowszych po najstarsze):
+? ^\s*$
+|2,1,1476108150,,"^\\s*$"
+?/rfjk
+|2,1,1476106258,47,"rfjk"
+?/T_INMOD_KLI
+|2,1,1476090292,47,"T_INMOD_KLI"
+? \\
+|2,1,1475831234,,"\\\\"
+?/%s/ser/xxx/gc
+|2,1,1475831174,47,"%s/ser/xxx/gc"
+?/%s/\\/\/
+|2,1,1475831138,47,"%s/\\\\/\\/"
+?/sdfas
+|2,1,1475672309,47,"sdfas"
+? insert_buda_static
+|2,1,1475672258,,"insert_buda_static"
+?/8,$s/insert_buda_static/
+|2,1,1475672187,47,"8,$s/insert_buda_static/"
+? pl3
+|2,1,1475582386,,"pl3"
+? pl2
+|2,1,1475582379,,"pl2"
+? pl1
+|2,1,1475582369,,"pl1"
+? OF_
+|2,1,1475581605,,"OF_"
+?/sdsd
+|2,1,1475492946,47,"sdsd"
+? KLIENT_BAZA
+|2,1,1475492934,,"KLIENT_BAZA"
+? @$
+|2,1,1475051971,,"@$"
+? \<c\>
+|2,1,1474899940,,"\\<c\\>"
+? \<Osobiście\>
+|2,1,1474899935,,"\\<Osobiście\\>"
+? \<faktycznie\>
+|2,1,1474899495,,"\\<faktycznie\\>"
+?/zaburzy
+|2,1,1474899224,47,"zaburzy"
+? \<porognozowania\>
+|2,1,1474634031,,"\\<porognozowania\\>"
+?/sdfafsafsa
+|2,1,1474621708,47,"sdfafsafsa"
+?/miesi
+|2,1,1474621694,47,"miesi"
+? wyraź
+|2,1,1474545475,,"wyraź"
+?/wrap
+|2,1,1474279626,47,"wrap"
+?/sfasfsa
+|2,1,1473336597,47,"sfasfsa"
+? select
+|2,1,1473333086,,"select"
+? UI_WS15778
+|2,1,1473332883,,"UI_WS15778"
+?/sfsadfsaf
+|2,1,1473079449,47,"sfsadfsaf"
+? \/
+|2,1,1473079309,,"\\/"
+? *
+|2,1,1473079221,,"*"
+? );
+|2,1,1473065650,,");"
+? %var_stats(
+|2,1,1473065634,,"%var_stats("
+? stats_unique
+|2,1,1472656548,,"stats_unique"
+? stats_final
+|2,1,1472644308,,"stats_final"
+?/adfa
+|2,1,1472644138,47,"adfa"
+? stats
+|2,1,1472644122,,"stats"
+?/dsfas
+|2,1,1472563807,47,"dsfas"
+? , b.
+|2,1,1472563800,,", b."
+?/sasas
+|2,1,1472557507,47,"sasas"
+? PRZYCH = 1
+|2,1,1472557469,,"PRZYCH = 1"
+?/sdsf
+|2,1,1472557367,47,"sdsf"
+? PRZYCH
+|2,1,1472557317,,"PRZYCH"
+?/sadf
+|2,1,1472553195,47,"sadf"
+? 3M
+|2,1,1472553185,,"3M"
+? V2
+|2,1,1472467066,,"V2"
+?/sadadafd
+|2,1,1470400081,47,"sadadafd"
+? \<okresie\>
+|2,1,1470400073,,"\\<okresie\\>"
+?/fdsafsdfa
+|2,1,1470399943,47,"fdsafsdfa"
+? ))
+|2,1,1470399930,,"))"
+? -- create view
+|2,1,1470303977,,"-- create view"
+? create view
+|2,1,1470303672,,"create view"
+? "
+|2,1,1470298653,,"\""
+?/**
+|2,1,1470239219,47,"**"
+?/typ_dochodu
+|2,1,1470233798,47,"typ_dochodu"
+? \s\+$
+|2,1,1470049651,,"\\s\\+$"
+?/cc
+|2,1,1469806145,47,"cc"
+?/yeargk
+|2,1,1469801658,47,"yeargk"
+?/adfasdf
+|2,1,1469801107,47,"adfasdf"
+? sims
+|2,1,1469800345,,"sims"
+?/wdfsa
+|2,1,1469798046,47,"wdfsa"
+? \<w\>
+|2,1,1469798040,,"\\<w\\>"
+?///
+|2,1,1469706675,47,"//"
+?/asdfasdfsa
+|2,1,1469622315,47,"asdfasdfsa"
+?/print i
+|2,1,1469612884,47,"print i"
+? HDB_STAR 
+|2,1,1469007226,,"HDB_STAR "
+? HDB_STAR
+|2,1,1469007189,,"HDB_STAR"
+? \<SA_PROD99\>
+|2,1,1469014563,,"\\<SA_PROD99\\>"
+? ew
+|2,1,1468938868,,"ew"
+?/fsgd
+|2,1,1468839897,47,"fsgd"
+? \<kli_wn\>
+|2,1,1468839875,,"\\<kli_wn\\>"
+? ,
+|2,1,1468839872,,","
+? \<OF_LG_DOCH_DYSP_L\>
+|2,1,1468839850,,"\\<OF_LG_DOCH_DYSP_L\\>"
+? \<doch\>
+|2,1,1468839796,,"\\<doch\\>"
+? \<null\>
+|2,1,1468839785,,"\\<null\\>"
+? \<and\>
+|2,1,1468839774,,"\\<and\\>"
+?/git
+|2,1,1468830029,47,"git"
+?/asda
+|2,1,0,47,"asda"
+? \.
+|2,1,0,,"\\."
+? \<modelu\>
+|2,1,0,,"\\<modelu\\>"
+? \<Proces\>
+|2,1,0,,"\\<Proces\\>"
+??>?jjkkhh
+|2,1,0,63,">?jjkkhh"
+?/print
+|2,1,0,47,"print"
+? \<mee\>
+|2,1,0,,"\\<mee\\>"
+???
+|2,1,0,63,"?"
+?/hgdfhd
+|2,1,0,47,"hgdfhd"
+? \<wholefile\>
+|2,1,0,,"\\<wholefile\\>"
+?/hdfghd
+|2,1,0,47,"hdfghd"
+?/fgd
+|2,1,0,47,"fgd"
+? \<print\>
+|2,1,0,,"\\<print\\>"
+?/fsf
+|2,1,0,47,"fsf"
+? \<fr2\>
+|2,1,0,,"\\<fr2\\>"
+?/dfa
+|2,1,0,47,"dfa"
+?/afsd
+|2,1,0,47,"afsd"
+?   
+|2,1,0,,"  "
+?/fgsd
+|2,1,0,47,"fgsd"
+? table_defs
+|2,1,0,,"table_defs"
+?/dafsdf
+|2,1,0,47,"dafsdf"
+?/data
+|2,1,0,47,"data"
+? \<from\>
+|2,1,0,,"\\<from\\>"
+?/sda
+|2,1,0,47,"sda"
+??<F1>
+|2,1,0,63,"<F1>"
+?/daf
+|2,1,0,47,"daf"
+? \<self\>
+|2,1,0,,"\\<self\\>"
+?/adaf
+|2,1,0,47,"adaf"
+?/dafa
+|2,1,0,47,"dafa"
+?/sadfa
+|2,1,0,47,"sadfa"
+? d2
+|2,1,0,,"d2"
+? b2
+|2,1,0,,"b2"
+? \<Optymalizacja\>
+|2,1,0,,"\\<Optymalizacja\\>"
+?/rr/r/
+|2,1,0,47,"rr/r/"
+? in
+|2,1,0,,"in"
+? ino\.
+|2,1,0,,"ino\\."
+? in.
+|2,1,0,,"in."
+? ó
+|2,1,0,,"ó"
+? ł
+|2,1,0,,"ł"
+??sdasadf
+|2,1,0,63,"sdasadf"
+? \/\*
+|2,1,0,,"\\/\\*"
+? dsafsd
+|2,1,0,,"dsafsd"
+? ę
+|2,1,0,,"ę"
+?/ę
+|2,1,0,47,"ę"
+? ż
+|2,1,0,,"ż"
+? ś
+|2,1,0,,"ś"
+? ą
+|2,1,0,,"ą"
+? ^
+|2,1,0,,"^"
+? :DAT
+|2,1,0,,":DAT"
+? DAT
+|2,1,0,,"DAT"
+? \:DAT
+|2,1,0,,"\\:DAT"
+? \<Daniluk\>
+|2,1,0,,"\\<Daniluk\\>"
+?/DATA_OUT
+|2,1,0,47,"DATA_OUT"
+?/DANE_INPUT_BANKI
+|2,1,0,47,"DANE_INPUT_BANKI"
+?/\/\*\/i/
+|2,1,0,47,"\\/\\*\\/i/"
+?/txt
+|2,1,0,47,"txt"
+? \/\*\/
+|2,1,0,,"\\/\\*\\/"
+?//i..
+|2,1,0,47,"/i.."
+?/sfsfds
+|2,1,0,47,"sfsfds"
+? >> 
+|2,1,0,,">> "
+?/i
+|2,1,0,47,"i"
+
+# Wyrażenie Historia (od najnowszych po najstarsze):
+=acp#onPopupPost()
+|2,2,1470302899,,"acp#onPopupPost()"
+
+# Wiersz wprowadzeń Historia (od najnowszych po najstarsze):
+@[{y(es)},n(o),a(ll),q(uit)] Dy
+|2,3,0,,"[{y(es)},n(o),a(ll),q(uit)] Dy"
+@/cygdrive/h/UsersData/pd14184/BD/ceidg_globus/src/database:
+|2,3,0,,"/cygdrive/h/UsersData/pd14184/BD/ceidg_globus/src/database:"
+@logic
+|2,3,0,,"logic"
+@files
+|2,3,0,,"files"
+@database
+|2,3,0,,"database"
+@[{y(es)},n(o),a(ll),q(uit)] y
+|2,3,0,,"[{y(es)},n(o),a(ll),q(uit)] y"
+@/cygdrive/h/UsersData/pd14184/BD/ceidg_globus/src/main.py
+|2,3,0,,"/cygdrive/h/UsersData/pd14184/BD/ceidg_globus/src/main.py"
+@/fasdfsadfsad
+|2,3,0,,"/fasdfsadfsad"
+
+# Debug Line Historia (od najnowszych po najstarsze):
+
+# Rejestry:
+"0	LINE	0
+	    let vimrplugin_r_path = 'C:\Program Files\R\R-3.3.0\bin\x64'
+|3,0,0,1,1,0,1476108029,"    let vimrplugin_r_path = 'C:\\Program Files\\R\\R-3.3.0\\bin\\x64'"
+""1	LINE	0
+	
+|3,1,1,1,1,0,1476192237,""
+"2	LINE	0
+	
+|3,0,2,1,1,0,1476108150,""
+"3	LINE	0
+	CC?=gcc
+	ifeq "$(WIN)" "64"
+	    CFLAGS+=-m64 -mwindows -std=gnu99 -O3 -Wall -DWIN32
+	else
+	    CFLAGS+=-m32 -mwindows -std=gnu99 -O3 -Wall -DWIN32
+	endif
+	
+	# Note: -lWs2_32 must be after the object files
+	nclientserver.exe: nclientserver.c
+		$(CC) $(CFLAGS) nclientserver.c -o nclientserver.exe -lWs2_32
+	
+	clean:
+	
+|3,0,3,1,13,0,1476108150,"CC?=gcc","ifeq \"$(WIN)\" \"64\"","    CFLAGS+=-m64 -mwindows -std=gnu99 -O3 -Wall -DWIN32","else","    CFLAGS+=-m32 -mwindows -std=gnu99 -O3 -Wall -DWIN32","endif","","# Note: -lWs2_32 must be after the object files","nclientserver.exe: nclientserver.c","	$(CC) $(CFLAGS) nclientserver.c -o nclientserver.exe -lWs2_32","","clean:",""
+"4	LINE	0
+	
+|3,0,4,1,1,0,1476108150,""
+"5	LINE	0
+	CC?=gcc
+	CFLAGS+=-pthread -std=gnu99 -O2 -Wall
+	
+	nclientserver: nclientserver.c
+		$(CC) $(CFLAGS) nclientserver.c -o nclientserver
+	
+	clean:
+	
+|3,0,5,1,8,0,1476108150,"CC?=gcc","CFLAGS+=-pthread -std=gnu99 -O2 -Wall","","nclientserver: nclientserver.c","	$(CC) $(CFLAGS) nclientserver.c -o nclientserver","","clean:",""
+"6	LINE	0
+	
+|3,0,6,1,1,0,1476108150,""
+"7	LINE	0
+	
+|3,0,7,1,1,0,1476108150,""
+"8	LINE	0
+	
+|3,0,8,1,1,0,1476108150,""
+"9	LINE	0
+	PKG_CFLAGS=-D`${R_HOME}/bin/R --slave -e 'cat(Sys.info()[[1]])'` -DLWS_NO_FORK  -DWIN32
+	PKG_LIBS=-lWs2_32
+	
+	.PHONY: all nvimapps
+	
+	all: $(SHLIB) nvimapps
+	
+	$(SHLIB):
+	
+	nvimapps:
+		(cd apps; make -f Makefile.win)
+	
+|3,0,9,1,12,0,1476108150,"PKG_CFLAGS=-D`${R_HOME}/bin/R --slave -e 'cat(Sys.info()[[1]])'` -DLWS_NO_FORK  -DWIN32","PKG_LIBS=-lWs2_32","",".PHONY: all nvimapps","","all: $(SHLIB) nvimapps","","$(SHLIB):","","nvimapps:","	(cd apps; make -f Makefile.win)",""
+"d	LINE	0
+	1 = 1
+	and HDB_STARTDATE >= sysdate
+	and HDB_ENDDATE < sysdate 
+|3,0,13,1,3,0,1470302563,"1 = 1","and HDB_STARTDATE >= sysdate","and HDB_ENDDATE < sysdate "
+"i@	LINE	0
+	        i   parametr wskazuyyjący dla którego okresu jest wykonywana kalkulacja
+|3,2,18,1,1,0,1469794507,"        i   parametr wskazuyyjący dla którego okresu jest wykonywana kalkulacja"
+"j	CHAR	0
+	jjjj
+|3,0,19,0,1,0,1468834127,"jjjj"
+"p	LINE	0
+	select PESEL, 'PRZE_PRZYCH_3M_KWOTA_AVG' as STAT_NAME, 'N' as T, KWOTA_AVG as VAL
+	from stats
+	where 
+	1 = 1 
+	and PRZYCH = 1
+	and date_flag = '3M'
+	union
+|3,0,25,1,7,0,1472559384,"select PESEL, 'PRZE_PRZYCH_3M_KWOTA_AVG' as STAT_NAME, 'N' as T, KWOTA_AVG as VAL","from stats","where ","1 = 1 ","and PRZYCH = 1","and date_flag = '3M'","union"
+"-	CHAR	0
+	t
+|3,0,36,0,1,0,1476091955,"t"
+
+# Zakładki w plikach:
+'0  2703  0  ~/BD/income_model/development/model_database/data_definition/rebuild_db.sql
+|4,48,2703,0,1476192240,"~/BD/income_model/development/model_database/data_definition/rebuild_db.sql"
+'1  19  0  ~/BD/income_model/development/model_database/data_definition/T_INMOD_ADS_LISTA.sql
+|4,49,19,0,1476192208,"~/BD/income_model/development/model_database/data_definition/T_INMOD_ADS_LISTA.sql"
+'2  19  0  ~/BD/income_model/development/model_database/data_definition/T_INMOD_ADS_LISTA.sql
+|4,50,19,0,1476192208,"~/BD/income_model/development/model_database/data_definition/T_INMOD_ADS_LISTA.sql"
+'3  20  2  ~/BD/income_model/development/model_database/ads_list.sql
+|4,51,20,2,1476192162,"~/BD/income_model/development/model_database/ads_list.sql"
+'4  6  0  ~/sample.R
+|4,52,6,0,1476109185,"~/sample.R"
+'5  6  0  ~/sample.R
+|4,53,6,0,1476109127,"~/sample.R"
+'6  6  0  ~/sample.R
+|4,54,6,0,1476108812,"~/sample.R"
+'7  6  0  ~/sample.R
+|4,55,6,0,1476108812,"~/sample.R"
+'8  3  1123  ~/.vim/.VimballRecord
+|4,56,3,1123,1476108500,"~/.vim/.VimballRecord"
+'9  3  0  ~/sample.R
+|4,57,3,0,1476108179,"~/sample.R"
+
+# Lista odniesień (począwszy od najnowszych):
+-'  2703  0  ~/BD/income_model/development/model_database/data_definition/rebuild_db.sql
+|4,39,2703,0,1476192240,"~/BD/income_model/development/model_database/data_definition/rebuild_db.sql"
+-'  59  42  ~/BD/income_model/development/model_database/data_definition/rebuild_db.sql
+|4,39,59,42,1476192217,"~/BD/income_model/development/model_database/data_definition/rebuild_db.sql"
+-'  19  0  ~/BD/income_model/development/model_database/data_definition/T_INMOD_ADS_LISTA.sql
+|4,39,19,0,1476192208,"~/BD/income_model/development/model_database/data_definition/T_INMOD_ADS_LISTA.sql"
+-'  19  0  ~/BD/income_model/development/model_database/data_definition/T_INMOD_ADS_LISTA.sql
+|4,39,19,0,1476192208,"~/BD/income_model/development/model_database/data_definition/T_INMOD_ADS_LISTA.sql"
+-'  20  2  ~/BD/income_model/development/model_database/ads_list.sql
+|4,39,20,2,1476192162,"~/BD/income_model/development/model_database/ads_list.sql"
+-'  20  2  ~/BD/income_model/development/model_database/ads_list.sql
+|4,39,20,2,1476192162,"~/BD/income_model/development/model_database/ads_list.sql"
+-'  20  2  ~/BD/income_model/development/model_database/ads_list.sql
+|4,39,20,2,1476192162,"~/BD/income_model/development/model_database/ads_list.sql"
+-'  20  2  ~/BD/income_model/development/model_database/ads_list.sql
+|4,39,20,2,1476192162,"~/BD/income_model/development/model_database/ads_list.sql"
+-'  1  0  ~/BD/income_model/development/model_database/ads_list.sql
+|4,39,1,0,1476191698,"~/BD/income_model/development/model_database/ads_list.sql"
+-'  1  0  ~/BD/income_model/development/model_database/ads_list.sql
+|4,39,1,0,1476191698,"~/BD/income_model/development/model_database/ads_list.sql"
+-'  1  0  ~/BD/income_model/development/model_database/ads_list.sql
+|4,39,1,0,1476191698,"~/BD/income_model/development/model_database/ads_list.sql"
+-'  1  0  ~/BD/income_model/development/model_database/ads_list.sql
+|4,39,1,0,1476191698,"~/BD/income_model/development/model_database/ads_list.sql"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109185,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109185,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109185,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109185,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109185,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109185,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109185,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109185,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109127,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109127,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109127,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109127,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109127,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109127,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109127,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476109127,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  6  0  ~/sample.R
+|4,39,6,0,1476108812,"~/sample.R"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+-'  3  1123  ~/.vim/.VimballRecord
+|4,39,3,1123,1476108500,"~/.vim/.VimballRecord"
+
+# Historia zakładek w plikach (od najnowszych po najstarsze):
+
+> ~/BD/income_model/development/model_database/data_definition/rebuild_db.sql
+	*	1476192238	0
+	"	2703	0
+	^	2703	0
+	.	2703	0
+	+	56	123
+	+	56	58
+	+	1	0
+	+	56	58
+	+	2	0
+	+	1	69
+	+	56	0
+	+	353	0
+	+	374	0
+	+	353	0
+	+	374	0
+	+	472	0
+	+	473	0
+	+	776	0
+	+	1740	0
+	+	374	0
+	+	375	0
+	+	354	0
+	+	2703	0
+	+	2704	0
+	+	2703	0
+
+> ~/BD/income_model/development/model_database/data_definition/T_INMOD_ADS_LISTA.sql
+	*	1476192206	0
+	"	19	0
+	^	19	0
+	.	1	0
+	+	1	0
+
+> ~/BD/income_model/development/model_database/ads_list.sql
+	*	1476192158	0
+	"	20	2
+	^	20	3
+	.	3	0
+	+	1	56
+	+	3	0
+
+> ~/sample.R
+	*	1476109182	0
+	"	6	0
+	.	1	0
+	+	1	0
+
+> /usr/share/vim/vim74/doc/pi_vimball.txt
+	*	1476109040	0
+	"	150	27
+
+> ~/.vim/.VimballRecord
+	*	1476108495	0
+	"	3	1123
+
+> /.vim/.VimballRecord
+	*	1476108439	0
+	"	1	0
+
+> /cygdrive/c/Users/pd14184/Downloads/Nvim-R (2).vmb
+	*	1476108150	0
+	"	14	0
+
+> ~/.vimrc
+	*	1476108112	0
+	"	43	3
+	^	109	5
+	.	107	0
+	+	92	38
+	+	120	0
+	+	109	0
+	+	98	5
+	+	115	0
+	+	5	0
+	+	4	11
+	+	89	0
+	+	91	0
+	+	125	17
+	+	92	0
+	+	93	0
+	+	92	0
+	+	92	10
+	+	92	0
+	+	92	22
+	+	92	0
+	+	9	0
+	+	11	0
+	+	9	0
+	+	11	0
+	+	9	0
+	+	11	0
+	+	8	0
+	+	7	0
+	+	9	0
+	+	8	0
+	+	11	17
+	+	12	16
+	+	11	0
+	+	12	0
+	+	120	0
+	+	121	0
+	+	92	0
+	+	37	12
+	+	95	45
+	+	125	0
+	+	124	0
+	+	125	0
+	+	125	4
+	+	125	3
+	+	125	0
+	+	98	33
+	+	99	4
+	+	99	0
+	+	125	0
+	+	106	3
+	+	104	4
+	+	106	23
+	+	109	5
+	+	109	4
+	+	107	0
+
+> ~/BD/income_model/development/model_database/data_definition/views/V_INMOD_WNIOSKI.sql
+	*	1476101240	0
+	"	42	0
+	^	43	0
+	.	1	0
+	+	52	0
+	+	1	0
+
+> ~/BD/income_model/development/model_database/data_definition/T_INMOD_BUDA_STATIC.sql
+	*	1476096676	0
+	"	58	0
+	.	2	0
+	+	2	0
+
+> ~/faces.txt
+	*	1476096615	0
+	"	1	0
+
+> ~/BD/income_model/development/model_database/data_definition/T_INMOD_AKTYWNI.sql
+	*	1476091390	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	1	0
+	+	2	0
+
+> ~/rozwojowo/install_swirl_course.R
+	*	1475838983	0
+	"	1	61
+	^	2	60
+	.	2	59
+	+	1	23
+	+	2	49
+	+	1	0
+	+	2	59
+
+> ~/dmkk_przelewy.sql
+	*	1475759355	0
+	"	20	0
+	^	20	0
+	.	20	0
+	+	50	32
+	+	22	0
+	+	51	0
+	+	22	0
+	+	45	10
+	+	48	0
+	+	47	15
+	+	48	0
+	+	45	24
+	+	45	11
+	+	51	0
+	+	87	0
+	+	88	0
+	+	49	0
+	+	48	0
+	+	88	32
+	+	88	24
+	+	88	0
+	+	22	0
+	+	1	0
+	+	22	0
+	+	20	0
+
+> ~/BD/income_model/.git/COMMIT_EDITMSG
+	*	1475759122	0
+	"	2	60
+	^	2	61
+	.	2	60
+	+	9	51
+	+	7	42
+	+	6	0
+	+	5	50
+	+	1	38
+	+	3	65
+	+	4	57
+	+	1	38
+	+	2	60
+
+> ~/BD/income_model/development/model_database/data_definition/T_INMOD_E_ADS_M_02.sql
+	*	1475757918	0
+	"	962	0
+	.	2	0
+	+	2	0
+
+> ~/BD/income_model/development/model_database/data_definition/T
+	*	1475757634	0
+	"	1	0
+
+> ~/BD/income_model/development/model_database/data_definition/T_INMOD_E_ADS_M_01.sql
+	*	1475757600	0
+	"	493	0
+	.	2	0
+	+	2	0
+
+> ~/BD/income_model/development/model_database/data_definition/T_INMOD_E_ADS_D_01.sql
+	*	1475756761	0
+	"	302	0
+	.	2	0
+	+	2	0
+
+> ~/BD/income_model/development/model_database/run_proc.sql
+	*	1475756512	0
+	"	18	0
+	^	18	0
+	.	3	0
+	+	1	74
+	+	1	0
+	+	1	5
+	+	1	3
+	+	1	38
+	+	1	0
+	+	1	1
+	+	1	4
+	+	1	40
+	+	1	37
+	+	1	42
+	+	1	44
+	+	1	46
+	+	1	40
+	+	1	46
+	+	1	0
+	+	18	0
+	+	3	0
+
+> ~/rozwojowo/getdata/q2/git.json
+	*	1475743015	0
+	"	2641	0
+	.	1	0
+	+	1	0
+
+> ~/BD/income_model/development/model_database/data_definition/T_INMOD_PRZELEWY.sql
+	*	1475661302	0
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	47
+	+	1	0
+
+> ~/BD/income_model/development/model_database/data_definition/T_INMOD_KLIENT_BAZA.sql
+	*	1475660109	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/BD/income_model/development/model_database/data_definition/T_INMOD_BUDA.sql
+	*	1475582468	0
+	"	42	0
+	.	2	0
+	+	1	0
+	+	1	6
+	+	1	0
+	+	1	2
+	+	1	0
+	+	1	6
+	+	1	0
+	+	2	0
+
+> ~/BD/income_model/development/ads_data/NADS_WYDATKI/NMK_BAZA_KLIENTOW.sql
+	*	1475492511	0
+	"	56	50
+
+> ~/BD/income_model/development/model_database/test_data/readme.md
+	*	1475486125	0
+	"	1	69
+	^	1	70
+	.	1	69
+	+	1	69
+
+> ~/BD/income_model/development/ads_data/NADS_WYDATKI/NMK_WYDATKI_AC.sql
+	*	1475052915	0
+	"	18	21
+	^	17	22
+	.	17	21
+	+	17	21
+
+> ~/BD/income_model/development/ads_data/NADS_WYDATKI/NMK_SL_FILTRY.sql
+	*	1475052114	0
+	"	74	0
+
+> ~/BD/income_model/development/ads_data/NADS_WYDATKI/NMK_WYDATKI_ABONAMENT.sql
+	*	1475052008	0
+	"	45	0
+
+> ~/BD/income_model/development/ads_data/readme.md
+	*	1474974986	0
+	"	6	54
+	^	6	55
+	.	6	54
+	+	5	26
+	+	5	59
+	+	6	54
+
+> ~/BD/income_model/readme.md
+	*	1474974006	0
+	"	15	0
+	^	15	36
+	.	15	35
+	+	1	68
+	+	16	0
+	+	6	0
+	+	4	2
+	+	3	22
+	+	8	15
+	+	8	14
+	+	4	0
+	+	6	0
+	+	6	22
+	+	7	0
+	+	8	0
+	+	7	30
+	+	9	19
+	+	11	18
+	+	13	36
+	+	15	35
+
+> ~/BD/income_model/projekt_dok/05_hipotezy_badawcze/hipotezy_draft_komentarze.txt
+	*	1474970077	0
+	"	45	56
+	^	45	494
+	.	45	493
+	+	2	175
+	+	3	208
+	+	5	260
+	+	6	0
+	+	7	183
+	+	8	135
+	+	9	0
+	+	10	314
+	+	12	280
+	+	12	369
+	+	12	368
+	+	13	268
+	+	15	392
+	+	17	355
+	+	19	361
+	+	21	262
+	+	22	0
+	+	21	297
+	+	22	0
+	+	23	45
+	+	24	0
+	+	25	0
+	+	24	26
+	+	25	0
+	+	26	0
+	+	32	2
+	+	28	0
+	+	26	0
+	+	28	99
+	+	28	0
+	+	28	143
+	+	36	0
+	+	26	114
+	+	28	236
+	+	28	113
+	+	28	0
+	+	28	269
+	+	28	45
+	+	28	516
+	+	29	0
+	+	27	0
+	+	32	456
+	+	29	0
+	+	31	0
+	+	30	277
+	+	42	122
+	+	41	3
+	+	38	3
+	+	41	0
+	+	42	0
+	+	41	3
+	+	32	2
+	+	36	0
+	+	32	2
+	+	32	0
+	+	33	0
+	+	32	0
+	+	33	0
+	+	32	3
+	+	33	0
+	+	35	0
+	+	34	0
+	+	35	2
+	+	37	0
+	+	36	167
+	+	37	0
+	+	36	418
+	+	39	128
+	+	45	493
+
+> ~/BD/rwa_dhd_model/dpr_default_data/Kod_RWA.sas
+	*	1474892573	0
+	"	382	14
+
+> ~/BD/income_model/projekt_dok/05_hipotezy_badawcze/dpr_hipotezy_draft.txt
+	*	1474634546	0
+	"	10	205
+	^	3	58
+	.	10	50
+	+	124	0
+	+	125	59
+	+	127	0
+	+	128	61
+	+	130	0
+	+	131	32
+	+	132	3
+	+	133	0
+	+	134	51
+	+	135	47
+	+	134	50
+	+	136	0
+	+	137	64
+	+	138	79
+	+	139	0
+	+	140	62
+	+	141	68
+	+	140	61
+	+	142	0
+	+	143	0
+	+	143	90
+	+	144	60
+	+	146	36
+	+	147	43
+	+	149	48
+	+	148	0
+	+	151	0
+	+	152	58
+	+	153	63
+	+	152	57
+	+	154	0
+	+	155	45
+	+	156	24
+	+	160	0
+	+	157	0
+	+	158	80
+	+	159	21
+	+	158	80
+	+	161	55
+	+	162	34
+	+	163	0
+	+	164	116
+	+	165	79
+	+	164	115
+	+	167	71
+	+	168	62
+	+	169	0
+	+	172	0
+	+	170	187
+	+	170	87
+	+	173	42
+	+	174	20
+	+	175	0
+	+	176	52
+	+	178	0
+	+	179	82
+	+	181	0
+	+	180	61
+	+	182	79
+	+	183	60
+	+	12	0
+	+	15	0
+	+	13	0
+	+	17	87
+	+	24	91
+	+	17	77
+	+	53	0
+	+	12	0
+	+	13	55
+	+	20	48
+	+	13	94
+	+	13	0
+	+	20	49
+	+	13	93
+	+	20	78
+	+	21	0
+	+	28	53
+	+	29	329
+	+	29	0
+	+	29	331
+	+	28	0
+	+	29	149
+	+	29	241
+	+	13	47
+	+	13	0
+	+	3	0
+	+	11	0
+	+	9	78
+	+	10	169
+	+	10	0
+	+	10	200
+	+	11	0
+	+	10	204
+	+	9	0
+	+	10	291
+	+	10	205
+	+	7	156
+	+	4	204
+	+	3	59
+	+	10	50
+
+> ~/lg_ks.txt
+	*	1474385395	0
+	"	1	0
+	^	44	95
+	.	44	59
+	+	15	214
+	+	12	70
+	+	12	131
+	+	12	0
+	+	15	188
+	+	16	62
+	+	12	178
+	+	12	195
+	+	12	197
+	+	18	21
+	+	12	198
+	+	12	0
+	+	15	0
+	+	13	0
+	+	12	0
+	+	12	42
+	+	18	21
+	+	30	0
+	+	18	21
+	+	18	20
+	+	12	0
+	+	18	21
+	+	18	0
+	+	30	37
+	+	30	13
+	+	30	0
+	+	3	78
+	+	5	36
+	+	6	0
+	+	4	0
+	+	12	0
+	+	3	65
+	+	6	0
+	+	11	0
+	+	12	0
+	+	10	0
+	+	12	0
+	+	7	0
+	+	8	0
+	+	12	0
+	+	18	0
+	+	16	33
+	+	19	31
+	+	21	28
+	+	17	143
+	+	17	0
+	+	18	0
+	+	17	143
+	+	17	0
+	+	15	0
+	+	17	0
+	+	17	178
+	+	17	180
+	+	21	219
+	+	22	174
+	+	22	0
+	+	22	188
+	+	22	338
+	+	23	0
+	+	28	30
+	+	30	0
+	+	36	35
+	+	35	187
+	+	35	64
+	+	29	159
+	+	31	61
+	+	30	102
+	+	31	60
+	+	24	23
+	+	31	61
+	+	37	160
+	+	36	103
+	+	35	30
+	+	46	136
+	+	26	132
+	+	26	24
+	+	33	0
+	+	32	126
+	+	20	132
+	+	32	236
+	+	47	17
+	+	25	21
+	+	46	126
+	+	25	149
+	+	27	0
+	+	48	17
+	+	47	0
+	+	39	60
+	+	40	32
+	+	41	20
+	+	45	0
+	+	41	16
+	+	43	68
+	+	41	0
+	+	42	45
+	+	44	59
+
+> ~/BD/income_model/development/ads_data/sql/ads_single_date.sql
+	*	1473433164	0
+	"	19	0
+	^	19	0
+
+> ~/BD/income_model/development/ads_data/sql/ads_multiple_dates.sql
+	*	1473423035	0
+	"	12	47
+	^	11	17
+	.	12	0
+	+	1	27
+	+	2	0
+	+	3	0
+	+	4	0
+	+	3	52
+	+	4	47
+	+	6	69
+	+	5	0
+	+	9	15
+	+	11	0
+	+	12	0
+
+> ~/BD/income_model/development/ads_data/sql/setup.sql
+	*	1473417574	0
+	"	12	0
+	^	10	43
+	.	10	0
+	+	1	50
+	+	3	36
+	+	5	0
+	+	6	42
+	+	10	42
+	+	12	0
+	+	6	0
+	+	10	0
+
+> ~/BD/income_model/development/readme.md
+	*	1473412532	0
+	"	16	38
+	^	16	39
+	.	16	38
+	+	1	33
+	+	9	55
+	+	4	0
+	+	6	0
+	+	9	0
+	+	2	0
+	+	3	3
+	+	5	3
+	+	8	3
+	+	9	50
+	+	4	0
+	+	4	72
+	+	6	67
+	+	9	47
+	+	9	0
+	+	9	74
+	+	10	22
+	+	13	0
+	+	4	0
+	+	13	0
+	+	4	34
+	+	15	11
+	+	16	38
+
+> /usr/share/vim/vim74/doc/spell.txt
+	*	1473412443	0
+	"	57	36
+
+> ~/BD/income_model/development/sample/sql/karty/dmkk_karty_trans_sandbox.sql
+	*	1473410369	0
+	"	44	10
+	.	43	0
+	+	6	0
+	+	8	0
+	+	40	5
+	+	40	34
+	+	40	32
+	+	40	18
+	+	40	22
+	+	43	0
+	+	8	0
+	+	40	0
+	+	42	0
+	+	43	0
+
+> ~/BD/income_model/development/sample/analiza/src/XX_koszyki.sas
+	*	1473340703	0
+	"	38	28
+	^	49	34
+	.	49	33
+	+	40	0
+	+	29	14
+	+	39	7
+	+	31	13
+	+	39	0
+	+	8	52
+	+	32	0
+	+	32	19
+	+	33	19
+	+	34	19
+	+	35	19
+	+	36	20
+	+	32	20
+	+	33	20
+	+	34	20
+	+	35	20
+	+	36	21
+	+	37	22
+	+	38	21
+	+	45	4
+	+	45	17
+	+	46	0
+	+	29	14
+	+	45	37
+	+	49	33
+
+> ~/BD/income_model/development/sample/sql/recalc/privs.sql
+	*	1473340140	0
+	"	11	6
+	^	5	82
+	.	9	74
+	+	8	19
+	+	3	12
+	+	3	41
+	+	5	12
+	+	6	12
+	+	8	0
+	+	8	12
+	+	3	29
+	+	3	33
+	+	5	0
+	+	4	25
+	+	6	0
+	+	5	34
+	+	6	0
+	+	8	0
+	+	6	0
+	+	8	0
+	+	5	0
+	+	6	28
+	+	8	31
+	+	8	33
+	+	9	0
+	+	8	0
+	+	7	0
+	+	3	0
+	+	4	38
+	+	5	47
+	+	6	42
+	+	7	45
+	+	8	47
+	+	3	59
+	+	4	14
+	+	5	0
+	+	4	13
+	+	5	13
+	+	6	13
+	+	7	13
+	+	8	13
+	+	3	0
+	+	4	41
+	+	5	51
+	+	6	45
+	+	7	48
+	+	8	50
+	+	11	6
+	+	3	68
+	+	5	0
+	+	3	78
+	+	5	0
+	+	4	72
+	+	4	0
+	+	6	0
+	+	5	66
+	+	7	0
+	+	6	61
+	+	7	65
+	+	8	67
+	+	11	0
+	+	9	0
+	+	10	0
+	+	9	42
+	+	10	0
+	+	3	91
+	+	5	0
+	+	4	72
+	+	5	81
+	+	6	75
+	+	7	79
+	+	8	81
+	+	9	74
+
+> ~/BD/income_model/development/sample/sql/recalc/recalc_stats.sql
+	*	1473337717	0
+	"	435	0
+	^	436	7
+	.	436	6
+	+	3	0
+	+	1	56
+	+	436	6
+
+> ~/BD/income_model/development/sample/analiza/sql_stats/bik_stats.sql
+	*	1473337152	0
+	"	110	0
+	^	123	77
+	.	123	75
+	+	29	0
+	+	26	0
+	+	33	0
+	+	30	0
+	+	35	0
+	+	34	0
+	+	35	0
+	+	38	0
+	+	42	0
+	+	46	0
+	+	50	0
+	+	54	0
+	+	58	0
+	+	27	66
+	+	31	65
+	+	35	65
+	+	39	61
+	+	43	60
+	+	47	70
+	+	51	62
+	+	55	66
+	+	63	0
+	+	62	0
+	+	125	0
+	+	59	65
+	+	63	55
+	+	67	58
+	+	71	58
+	+	75	58
+	+	79	58
+	+	83	67
+	+	87	75
+	+	91	66
+	+	95	58
+	+	99	58
+	+	105	0
+	+	103	66
+	+	109	0
+	+	107	61
+	+	111	75
+	+	117	0
+	+	115	71
+	+	119	71
+	+	125	0
+	+	69	0
+	+	66	0
+	+	70	0
+	+	74	0
+	+	78	0
+	+	79	0
+	+	82	0
+	+	86	0
+	+	90	0
+	+	94	0
+	+	98	0
+	+	102	0
+	+	106	0
+	+	110	0
+	+	114	0
+	+	118	0
+	+	12	7
+	+	16	0
+	+	20	0
+	+	24	0
+	+	28	0
+	+	32	0
+	+	36	0
+	+	40	0
+	+	44	0
+	+	48	0
+	+	52	0
+	+	56	0
+	+	60	0
+	+	64	0
+	+	68	0
+	+	72	0
+	+	76	0
+	+	80	0
+	+	84	0
+	+	88	0
+	+	92	0
+	+	96	0
+	+	100	0
+	+	104	0
+	+	108	0
+	+	112	0
+	+	116	0
+	+	120	0
+	+	3	0
+	+	4	0
+	+	125	0
+	+	123	0
+	+	122	4
+	+	123	1
+	+	123	0
+	+	125	0
+	+	124	7
+	+	123	75
+
+> ~/BD/income_model/development/sample/sql/recalc/recalc_data.sql
+	*	1473331381	0
+	"	1	64
+	^	1	65
+	.	1	64
+	+	2	0
+	+	1	64
+
+> ~/BD/income_model/development/sample/sql/recalc/readme.md
+	*	1473329247	0
+	"	1	107
+	^	1	108
+	.	1	108
+	+	1	108
+
+> ~/BD/income_model/development/sample/sql/bik/bik_sandbox.sql
+	*	1473329133	0
+	"	49	0
+	^	4	14
+	.	4	13
+	+	3	26
+	+	4	13
+
+> ~/BD/income_model/development/sample/sql/przelewy/dmkk_przelewy_sandbox.sql
+	*	1473253367	0
+	"	33	19
+	^	32	35
+	.	32	34
+	+	6	13
+	+	30	52
+	+	32	34
+
+> ~/BD/income_model/development/sample/analiza/src/XX_makro_liniowoscTR.sas
+	*	1473084654	0
+	"	36	26
+	^	104	28
+	.	319	0
+	+	6	0
+	+	5	0
+	+	2	39
+	+	4	78
+	+	9	0
+	+	11	2
+	+	12	0
+	+	13	0
+	+	14	0
+	+	13	0
+	+	14	0
+	+	12	26
+	+	14	85
+	+	16	6
+	+	17	10
+	+	14	75
+	+	14	74
+	+	15	38
+	+	16	71
+	+	19	105
+	+	20	76
+	+	21	49
+	+	19	24
+	+	20	10
+	+	21	8
+	+	22	23
+	+	23	28
+	+	24	4
+	+	23	27
+	+	24	27
+	+	25	1
+	+	23	0
+	+	22	64
+	+	23	61
+	+	24	64
+	+	103	132
+	+	77	93
+	+	103	67
+	+	77	93
+	+	78	0
+	+	103	83
+	+	78	0
+	+	104	0
+	+	78	0
+	+	119	0
+	+	277	0
+	+	319	0
+
+> ~/BD/income_model/development/sample/analiza/src/XX_transformacje_WOE.sas
+	*	1473084649	0
+	"	18	82
+	^	18	83
+	.	18	82
+	+	1	0
+	+	2	39
+	+	4	20
+	+	6	29
+	+	4	79
+	+	8	0
+	+	9	0
+	+	9	2
+	+	10	41
+	+	12	23
+	+	15	0
+	+	18	55
+	+	17	28
+	+	18	82
+
+> ~/BD/income_model/development/sample/analiza/src/XX_makro_BinEqH.sas
+	*	1473082275	0
+	"	49	3
+	^	4	79
+	.	9	0
+	+	4	20
+	+	2	35
+	+	4	79
+	+	6	26
+	+	9	0
+
+> ~/BD/income_model/development/sample/analiza/sql_stats/flaga_akt_dry.sql
+	*	1472812713	0
+	"	11	0
+	^	11	6
+	.	11	0
+	+	1	0
+	+	12	27
+	+	1	98
+	+	12	21
+	+	12	8
+	+	12	33
+	+	1	84
+	+	11	0
+	+	7	83
+	+	2	45
+	+	7	67
+	+	2	0
+	+	1	124
+	+	11	0
+	+	3	14
+	+	3	52
+	+	3	8
+	+	3	50
+	+	3	11
+	+	3	52
+	+	3	31
+	+	3	35
+	+	3	46
+	+	4	8
+	+	7	39
+	+	4	9
+	+	7	35
+	+	4	53
+	+	7	34
+	+	7	35
+	+	11	0
+	+	1	111
+	+	9	4
+	+	1	87
+	+	9	0
+	+	12	0
+	+	8	68
+	+	1	93
+	+	4	0
+	+	3	0
+	+	1	103
+	+	1	50
+	+	1	78
+	+	10	0
+	+	1	84
+	+	9	0
+	+	1	78
+	+	2	0
+	+	11	0
+
+> ~/BD/income_model/development/sample/analiza/sql_stats/flaga_aktywnosci.sql
+	*	1472808771	0
+	"	7	20
+	^	7	21
+	.	7	20
+	+	1	58
+	+	2	0
+	+	7	32
+	+	7	19
+	+	7	3
+	+	8	0
+	+	7	4
+	+	7	5
+	+	8	5
+	+	7	27
+	+	8	79
+	+	13	22
+	+	10	0
+	+	9	15
+	+	12	15
+	+	13	23
+	+	6	20
+	+	14	0
+	+	6	56
+	+	14	0
+	+	14	4
+	+	14	49
+	+	14	22
+	+	5	24
+	+	14	0
+	+	4	37
+	+	5	0
+	+	16	33
+	+	23	14
+	+	23	49
+	+	26	0
+	+	20	34
+	+	23	58
+	+	18	0
+	+	24	21
+	+	7	20
+
+> ~/BD/income_model/development/sample/analiza/sql_stats/przelewy_stats.sql
+	*	1472808723	0
+	"	31	25
+	^	7	22
+	.	16	25
+	+	31	49
+	+	153	47
+	+	153	0
+	+	153	4
+	+	153	0
+	+	153	4
+	+	153	0
+	+	153	60
+	+	153	33
+	+	153	0
+	+	31	0
+	+	2	0
+	+	31	56
+	+	153	0
+	+	153	54
+	+	153	0
+	+	153	61
+	+	153	59
+	+	153	0
+	+	153	61
+	+	153	59
+	+	16	31
+	+	9	9
+	+	10	9
+	+	15	8
+	+	15	0
+	+	13	0
+	+	22	13
+	+	27	32
+	+	36	0
+	+	35	19
+	+	31	29
+	+	38	27
+	+	42	17
+	+	44	0
+	+	31	37
+	+	38	37
+	+	45	37
+	+	52	37
+	+	45	68
+	+	52	68
+	+	153	0
+	+	60	0
+	+	81	0
+	+	60	0
+	+	67	0
+	+	74	0
+	+	81	23
+	+	87	0
+	+	81	0
+	+	63	0
+	+	70	12
+	+	77	14
+	+	77	12
+	+	84	12
+	+	88	12
+	+	16	0
+	+	18	0
+	+	4	9
+	+	63	12
+	+	89	29
+	+	92	3
+	+	93	19
+	+	96	27
+	+	100	17
+	+	102	0
+	+	104	27
+	+	108	19
+	+	109	0
+	+	111	25
+	+	116	17
+	+	118	0
+	+	120	29
+	+	123	0
+	+	115	3
+	+	114	4
+	+	106	11
+	+	107	3
+	+	123	6
+	+	124	3
+	+	125	19
+	+	128	0
+	+	129	0
+	+	127	0
+	+	128	27
+	+	133	17
+	+	137	27
+	+	141	3
+	+	143	4
+	+	145	0
+	+	146	0
+	+	144	0
+	+	145	25
+	+	150	17
+	+	5	16
+	+	6	29
+	+	7	0
+	+	5	12
+	+	29	0
+	+	16	25
+
+> ~/BD/income_model/development/sample/analiza/sql_stats/demografia.sql
+	*	1472808697	0
+	"	34	23
+	^	74	50
+	.	11	0
+	+	77	9
+	+	11	0
+	+	12	5
+	+	12	0
+	+	41	13
+	+	41	0
+	+	12	0
+	+	1	67
+	+	2	3
+	+	1	78
+	+	2	23
+	+	16	52
+	+	13	11
+	+	15	29
+	+	16	0
+	+	21	43
+	+	22	3
+	+	15	3
+	+	41	0
+	+	77	0
+	+	41	12
+	+	41	0
+	+	14	42
+	+	21	45
+	+	20	8
+	+	16	5
+	+	17	5
+	+	23	5
+	+	24	5
+	+	14	43
+	+	15	0
+	+	14	44
+	+	21	48
+	+	22	0
+	+	27	0
+	+	25	2
+	+	26	12
+	+	27	0
+	+	40	2
+	+	41	0
+	+	77	0
+	+	44	12
+	+	46	0
+	+	46	31
+	+	46	34
+	+	50	24
+	+	60	19
+	+	45	30
+	+	46	1
+	+	47	48
+	+	47	1
+	+	45	20
+	+	47	21
+	+	45	30
+	+	12	8
+	+	19	3
+	+	37	20
+	+	38	27
+	+	39	9
+	+	43	4
+	+	44	14
+	+	45	4
+	+	27	7
+	+	28	20
+	+	29	15
+	+	36	0
+	+	30	14
+	+	33	23
+	+	35	17
+	+	47	0
+	+	77	0
+	+	47	0
+	+	46	1
+	+	77	4
+	+	62	0
+	+	61	1
+	+	62	18
+	+	62	0
+	+	77	0
+	+	62	13
+	+	77	50
+	+	62	0
+	+	77	0
+	+	62	0
+	+	77	0
+	+	62	0
+	+	34	23
+	+	63	0
+	+	67	0
+	+	71	0
+	+	75	9
+	+	74	50
+	+	77	0
+	+	11	0
+
+> ~/BD/income_model/development/sample/analiza/src/XX_target.sas
+	*	1472803292	0
+	"	84	0
+	^	86	1
+	.	86	0
+	+	46	11
+	+	85	0
+	+	47	11
+	+	85	0
+	+	49	0
+	+	48	11
+	+	85	0
+	+	49	11
+	+	85	0
+	+	50	11
+	+	52	0
+	+	85	0
+	+	51	11
+	+	85	0
+	+	52	11
+	+	85	0
+	+	53	11
+	+	85	0
+	+	54	11
+	+	85	0
+	+	55	11
+	+	85	0
+	+	56	11
+	+	85	0
+	+	57	11
+	+	85	0
+	+	58	11
+	+	85	0
+	+	59	11
+	+	85	0
+	+	60	11
+	+	85	0
+	+	61	11
+	+	85	0
+	+	62	11
+	+	85	0
+	+	63	11
+	+	85	0
+	+	64	11
+	+	85	0
+	+	65	11
+	+	85	0
+	+	66	11
+	+	85	0
+	+	67	11
+	+	85	0
+	+	68	11
+	+	85	0
+	+	69	11
+	+	85	0
+	+	70	11
+	+	85	0
+	+	71	11
+	+	85	0
+	+	72	11
+	+	85	0
+	+	73	11
+	+	85	0
+	+	74	11
+	+	85	0
+	+	75	11
+	+	85	0
+	+	76	11
+	+	85	0
+	+	77	11
+	+	85	0
+	+	78	11
+	+	85	0
+	+	79	11
+	+	85	0
+	+	80	11
+	+	85	0
+	+	81	11
+	+	85	0
+	+	82	11
+	+	85	0
+	+	83	0
+	+	84	0
+	+	85	0
+	+	85	9
+	+	85	14
+	+	85	0
+	+	85	22
+	+	85	0
+	+	85	5
+	+	85	0
+	+	85	14
+	+	85	0
+	+	85	26
+	+	86	33
+	+	85	0
+	+	20	0
+	+	21	0
+	+	11	0
+	+	85	0
+	+	86	0
+
+> ~/BD/income_model/development/sample/analiza/src/XX_vars.sas
+	*	1472723298	0
+	"	53	21
+	^	65	6
+	.	66	0
+	+	1	0
+	+	2	26
+	+	4	75
+	+	6	29
+	+	18	4
+	+	16	0
+	+	11	30
+	+	13	27
+	+	13	49
+	+	15	21
+	+	16	0
+	+	17	0
+	+	12	8
+	+	21	0
+	+	67	0
+	+	40	0
+	+	41	0
+	+	69	0
+	+	44	0
+	+	46	0
+	+	49	0
+	+	52	0
+	+	55	0
+	+	58	0
+	+	43	0
+	+	42	0
+	+	45	0
+	+	49	0
+	+	48	0
+	+	51	0
+	+	54	0
+	+	57	0
+	+	60	0
+	+	37	50
+	+	38	16
+	+	40	50
+	+	41	16
+	+	43	50
+	+	44	16
+	+	46	50
+	+	47	16
+	+	49	50
+	+	50	16
+	+	52	50
+	+	53	16
+	+	55	50
+	+	56	16
+	+	61	0
+	+	64	0
+	+	66	0
+	+	63	0
+	+	66	0
+	+	58	48
+	+	59	15
+	+	61	46
+	+	62	14
+	+	64	42
+	+	66	0
+	+	34	0
+	+	37	0
+	+	36	0
+	+	37	39
+	+	38	5
+	+	40	39
+	+	41	5
+	+	43	39
+	+	44	5
+	+	46	39
+	+	47	5
+	+	49	39
+	+	50	5
+	+	52	39
+	+	53	5
+	+	55	39
+	+	56	5
+	+	58	38
+	+	59	5
+	+	61	37
+	+	62	5
+	+	64	35
+	+	65	5
+	+	66	0
+
+> ~/BD/income_model/development/sample/analiza/src/XX_aktywnosc.sas
+	*	1472652913	0
+	"	11	0
+	^	11	0
+	.	10	0
+	+	1	0
+	+	2	35
+	+	4	63
+	+	8	0
+	+	9	0
+	+	27	0
+	+	1	0
+	+	2	31
+	+	4	67
+	+	8	0
+	+	6	29
+	+	8	0
+	+	9	28
+	+	13	30
+	+	15	3
+	+	15	0
+	+	14	2
+	+	12	0
+	+	10	0
+
+> ~/BD/income_model/development/sample/analiza/src/XX_ZM_N.sas
+	*	1472637678	0
+	"	17	4
+	^	14	18
+	.	14	17
+	+	2	26
+	+	4	53
+	+	17	4
+	+	11	44
+	+	16	0
+	+	13	48
+	+	11	5
+	+	14	17
+
+> ~/BD/income_model/development/sample/analiza/src/XX_ZM_C.sas
+	*	1472637569	0
+	"	12	26
+	^	12	27
+	.	12	26
+	+	3	0
+	+	4	52
+	+	1	0
+	+	2	26
+	+	10	0
+	+	13	13
+	+	16	12
+	+	14	28
+	+	12	26
+
+> ~/BD/income_model/development/sample/analiza/src/XX_copy_data.sas
+	*	1472637064	0
+	"	38	28
+	^	38	29
+	.	38	28
+	+	2	31
+	+	4	54
+	+	2	31
+	+	27	25
+	+	32	0
+	+	40	0
+	+	34	0
+	+	39	0
+	+	38	28
+
+> ~/BD/income_model/development/sample/analiza/src/XX_koszyki.sql
+	*	1472631322	0
+	"	4	73
+	^	4	74
+	.	4	74
+	+	2	29
+	+	4	74
+
+> ~/BD/income_model/development/sample/analiza/sql_stats/bik
+	*	1472629062	0
+	"	1	0
+
+> ~/BD/income_model/development/sample/analiza/sql_stats/karty_stats.sql
+	*	1472628997	0
+	"	15	27
+	^	10	21
+	.	15	27
+	+	1	61
+	+	18	0
+	+	65	0
+	+	18	11
+	+	6	14
+	+	18	11
+	+	19	13
+	+	24	34
+	+	60	0
+	+	25	42
+	+	25	22
+	+	65	29
+	+	2	32
+	+	17	0
+	+	6	14
+	+	12	24
+	+	17	0
+	+	3	9
+	+	3	69
+	+	3	32
+	+	3	4
+	+	3	27
+	+	3	20
+	+	3	10
+	+	3	6
+	+	3	0
+	+	3	5
+	+	3	0
+	+	3	4
+	+	3	28
+	+	3	20
+	+	3	4
+	+	3	0
+	+	12	0
+	+	7	0
+	+	3	0
+	+	16	28
+	+	20	18
+	+	25	22
+	+	25	20
+	+	60	18
+	+	60	0
+	+	26	28
+	+	24	12
+	+	60	0
+	+	60	2
+	+	28	29
+	+	29	22
+	+	60	0
+	+	60	1
+	+	60	0
+	+	29	55
+	+	31	22
+	+	34	0
+	+	32	0
+	+	34	23
+	+	36	19
+	+	29	33
+	+	34	33
+	+	41	25
+	+	40	9
+	+	35	9
+	+	30	9
+	+	29	58
+	+	34	59
+	+	39	59
+	+	27	0
+	+	28	49
+	+	41	14
+	+	65	0
+	+	28	41
+	+	64	0
+	+	44	1
+	+	42	4
+	+	43	0
+	+	44	0
+	+	45	0
+	+	54	0
+	+	50	23
+	+	52	19
+	+	56	67
+	+	55	66
+	+	44	22
+	+	57	0
+	+	45	0
+	+	60	0
+	+	62	0
+	+	60	0
+	+	64	0
+	+	65	0
+	+	61	23
+	+	63	19
+	+	65	0
+	+	64	0
+	+	10	21
+	+	4	0
+	+	15	27
+
+> ~/BD/income_model/development/sample/analiza/sql_stats/stats_table.sql
+	*	1472628880	0
+	"	8	18
+	^	9	2
+	.	10	0
+	+	1	78
+	+	5	24
+	+	7	17
+	+	5	15
+	+	8	25
+	+	10	4
+	+	4	14
+	+	7	8
+	+	8	10
+	+	7	8
+	+	9	0
+	+	10	0
+
+> ~/BD/income_model/development/sample/sql/bik/bik.sql
+	*	1472564085	0
+	"	3	0
+	^	2	41
+	.	3	0
+	+	1	16
+	+	3	0
+	+	5	18
+	+	6	30
+	+	7	20
+	+	8	24
+	+	9	27
+	+	10	28
+	+	11	5
+	+	38	0
+	+	11	28
+	+	12	29
+	+	13	28
+	+	50	7
+	+	50	28
+	+	50	24
+	+	50	33
+	+	50	25
+	+	50	6
+	+	50	29
+	+	50	28
+	+	50	18
+	+	50	21
+	+	50	30
+	+	50	6
+	+	50	38
+	+	50	29
+	+	50	21
+	+	50	24
+	+	50	38
+	+	50	0
+	+	50	34
+	+	3	0
+	+	39	151
+	+	50	0
+	+	38	78
+	+	39	150
+	+	39	0
+	+	39	91
+	+	41	4
+	+	40	3
+	+	39	0
+	+	41	0
+	+	43	14
+	+	50	0
+	+	43	60
+	+	48	0
+	+	44	22
+	+	45	37
+	+	46	9
+	+	47	8
+	+	38	0
+	+	15	4
+	+	15	0
+	+	50	0
+	+	43	0
+	+	1	29
+	+	2	40
+	+	3	0
+
+> ~/BD/income_model/development/sample/analiza/sql_stats/readme.md
+	*	1472548176	0
+	"	4	68
+	^	4	69
+	.	4	68
+	+	4	68
+
+> ~/BD/income_model/development/sample/sql/karty/dmkk_karty_sandbox.sql
+	*	1472464679	0
+	"	1	0
+
+> ~/BD/income_model/development/sample/sql/karty/dmkk_karty.sql
+	*	1472464643	0
+	"	1	0
+
+> ~/BD/income_model/development/sample/sql/data_tables/kon_kart.sql
+	*	1472464611	0
+	"	1	28
+	^	1	29
+	.	1	28
+	+	1	28
+
+> ~/BD/income_model/development/sample/sql/data_tables/kon_kli.sql
+	*	1472464579	0
+	"	5	5
+	^	3	12
+	.	3	11
+	+	1	22
+	+	1	17
+	+	2	0
+	+	1	0
+	+	1	29
+	+	2	0
+	+	3	5
+	+	3	45
+	+	3	1
+	+	3	3
+	+	3	0
+	+	3	35
+	+	3	8
+	+	3	45
+	+	1	0
+	+	1	24
+	+	14	0
+	+	1	31
+	+	3	0
+	+	5	15
+	+	7	0
+	+	6	0
+	+	7	46
+	+	13	0
+	+	8	0
+	+	12	3
+	+	4	8
+	+	12	67
+	+	3	11
+
+> ~/BD/income_model/development/sample/sql/przelewy/dmkk_przelewy_views_sandbox.sql
+	*	1472463519	0
+	"	25	0
+
+> ~/BD/income_model/development/sample/sql/data_tables/klient.sql
+	*	1472463468	0
+	"	14	4
+	^	13	27
+	.	13	0
+	+	1	108
+	+	1	0
+	+	5	37
+	+	4	9
+	+	5	5
+	+	5	72
+	+	5	49
+	+	5	72
+	+	5	51
+	+	5	71
+	+	5	77
+	+	5	51
+	+	14	0
+	+	5	72
+	+	14	0
+	+	14	5
+	+	13	20
+	+	14	5
+	+	6	40
+	+	12	11
+	+	13	7
+	+	7	41
+	+	12	4
+	+	14	0
+	+	8	0
+	+	12	5
+	+	12	8
+	+	13	7
+	+	14	3
+	+	14	4
+	+	10	8
+	+	11	8
+	+	2	0
+	+	3	30
+	+	13	0
+
+> ~/BD/income_model/development/sample/sql/data_tables/readme.md
+	*	1472460591	0
+	"	4	7
+	^	4	8
+	.	4	7
+	+	4	7
+
+> ~/BD/income_model/development/sample/sql/wnioski/readme.md
+	*	1472459704	0
+	"	3	65
+	^	3	66
+	.	3	65
+	+	3	65
+
+> ~/BD/income_model/development/sample/sql/przelewy/readme.md
+	*	1472459558	0
+	"	3	57
+	^	3	58
+	.	3	57
+	+	3	57
+
+> ~/BD/income_model/development/sample/sql/karty/readme.md
+	*	1472459509	0
+	"	3	58
+	^	3	59
+	.	3	58
+	+	3	58
+
+> ~/BD/income_model/development/sample/sql/sandbox/dmkk_przelewy_sandbox.sql
+	*	1472200647	0
+	"	24	6
+
+> ~/BD/income_model/development/sample/sql/sandbox/uni_wn_sandbox.sql
+	*	1472200626	0
+	"	64	0
+	^	58	0
+	.	58	0
+	+	15	0
+	+	7	82
+	+	8	36
+	+	7	54
+	+	6	44
+	+	5	0
+	+	11	0
+	+	15	0
+	+	21	8
+	+	37	7
+	+	42	7
+	+	21	53
+	+	42	11
+	+	81	27
+	+	42	0
+	+	42	3
+	+	42	4
+	+	42	0
+	+	42	13
+	+	42	52
+	+	42	30
+	+	43	0
+	+	17	10
+	+	42	41
+	+	54	22
+	+	17	0
+	+	81	0
+	+	77	0
+	+	54	6
+	+	55	7
+	+	54	7
+	+	21	0
+	+	22	0
+	+	20	41
+	+	42	0
+	+	38	30
+	+	39	0
+	+	78	25
+	+	39	3
+	+	41	4
+	+	41	42
+	+	17	0
+	+	18	0
+	+	16	26
+	+	40	34
+	+	15	1
+	+	19	60
+	+	9	48
+	+	29	0
+	+	27	34
+	+	15	0
+	+	60	0
+	+	58	0
+
+> ~/groty/agd.txt
+	*	1472112744	0
+	"	49	18
+	^	49	19
+	.	60	18
+	+	14	12
+	+	13	12
+	+	4	35
+	+	3	9
+	+	18	2
+	+	17	3
+	+	18	3
+	+	17	13
+	+	18	4
+	+	17	3
+	+	18	13
+	+	18	1
+	+	7	16
+	+	8	17
+	+	9	7
+	+	8	16
+	+	9	12
+	+	14	0
+	+	12	0
+	+	21	0
+	+	22	0
+	+	16	3
+	+	17	1
+	+	18	1
+	+	18	0
+	+	16	16
+	+	17	10
+	+	16	7
+	+	17	13
+	+	18	16
+	+	23	10
+	+	25	0
+	+	24	16
+	+	25	16
+	+	26	0
+	+	27	5
+	+	29	7
+	+	28	16
+	+	29	16
+	+	30	17
+	+	31	15
+	+	36	7
+	+	33	17
+	+	34	16
+	+	35	16
+	+	36	16
+	+	38	0
+	+	39	0
+	+	37	0
+	+	34	0
+	+	33	6
+	+	38	16
+	+	39	8
+	+	39	0
+	+	39	14
+	+	41	7
+	+	39	22
+	+	41	15
+	+	39	20
+	+	39	11
+	+	42	0
+	+	6	23
+	+	7	0
+	+	10	0
+	+	11	21
+	+	43	22
+	+	43	0
+	+	1	3
+	+	43	9
+	+	56	6
+	+	52	0
+	+	47	18
+	+	43	9
+	+	48	37
+	+	44	10
+	+	45	12
+	+	51	17
+	+	49	16
+	+	50	11
+	+	49	11
+	+	50	18
+	+	52	0
+	+	51	20
+	+	55	0
+	+	52	18
+	+	53	20
+	+	54	18
+	+	59	19
+	+	60	3
+	+	58	12
+	+	60	18
+
+> ~/BD/income_model/development/sample/analiza/sql_stats/new
+	*	1472029390	0
+	"	1	57
+	^	1	58
+	.	1	57
+	+	1	57
+
+> ~/BD/income_model/development/sample/analiza/src/.XX_copy_data.sas.swp
+	*	1472028473	0
+	"	1	0
+
+> ~/BD/income_model/development/sample/sql/sandbox/inmod_sample_tables.sql
+	*	1472026798	0
+	"	16	0
+	^	12	40
+	.	12	0
+	+	1	2
+	+	2	80
+	+	3	76
+	+	8	8
+	+	9	36
+	+	7	42
+	+	6	11
+	+	2	44
+	+	6	63
+	+	11	20
+	+	14	0
+	+	11	63
+	+	14	6
+	+	14	0
+	+	14	23
+	+	13	7
+	+	16	0
+	+	12	0
+
+> ~/pulpit/uni_wnioski.csv
+	*	1471947909	0
+	"	1	0
+
+> ~/BD/income_model/development/sample/sql/uni_wnioski.sql
+	*	1471870133	0
+	"	28	26
+
+> ~/BD/income_model/development/sample/sql/sandbox/dmkk_karty_trans_sandbox.sql
+	*	1471869909	0
+	"	42	16
+
+> ~/BD/income_model/development/sample/sql/dmkk_karty.sql
+	*	1471867354	0
+	"	17	37
+	^	16	43
+	.	17	37
+	+	1	2
+	+	1	26
+	+	4	2
+	+	6	0
+	+	1	0
+	+	4	0
+	+	1	0
+	+	6	0
+	+	3	9
+	+	1	0
+	+	3	0
+	+	2	27
+	+	3	0
+	+	14	23
+	+	14	18
+	+	14	33
+	+	16	37
+	+	19	14
+	+	14	0
+	+	15	0
+	+	14	0
+	+	16	42
+	+	14	0
+	+	17	37
+
+> ~/BD/income_model/development/sample/sql/dmkk_karty_sandbox.sql
+	*	1471867196	0
+	"	5	0
+
+> ~/BD/income_model/development/sample/analiza/src/XX_oferta.sas
+	*	1471862622	0
+	"	14	0
+	^	17	12
+	.	17	11
+	+	1	0
+	+	2	23
+	+	2	28
+	+	4	67
+	+	12	20
+	+	9	2
+	+	10	0
+	+	19	3
+	+	15	61
+	+	17	6
+	+	17	0
+	+	16	10
+	+	17	11
+
+> ~/BD/income_model/development/sample/analiza/src/XX_przelewy.sas
+	*	1471862607	0
+	"	3	0
+
+> ~/BD/income_model/development/sample/sql/sandbox/dmkk_karty_sandbox.sql
+	*	1470400439	0
+	"	2	0
+	^	28	35
+	.	68	0
+	+	21	0
+	+	20	38
+	+	23	0
+	+	25	0
+	+	23	0
+	+	21	0
+	+	25	0
+	+	15	1
+	+	2	58
+	+	10	37
+	+	20	42
+	+	13	19
+	+	14	16
+	+	8	14
+	+	10	0
+	+	8	31
+	+	18	37
+	+	60	0
+	+	60	8
+	+	60	0
+	+	29	0
+	+	60	0
+	+	63	19
+	+	63	76
+	+	68	8
+	+	68	0
+	+	69	0
+	+	61	0
+	+	59	11
+	+	33	6
+	+	34	3
+	+	35	0
+	+	34	0
+	+	35	3
+	+	36	3
+	+	37	3
+	+	38	3
+	+	39	3
+	+	40	0
+	+	41	3
+	+	42	3
+	+	43	3
+	+	44	3
+	+	45	3
+	+	46	3
+	+	47	3
+	+	48	3
+	+	49	3
+	+	50	3
+	+	51	3
+	+	52	3
+	+	53	3
+	+	54	3
+	+	55	3
+	+	56	3
+	+	57	3
+	+	58	3
+	+	59	3
+	+	36	0
+	+	34	4
+	+	35	4
+	+	36	4
+	+	37	4
+	+	38	4
+	+	39	4
+	+	40	4
+	+	41	4
+	+	42	4
+	+	43	4
+	+	44	4
+	+	45	4
+	+	46	4
+	+	47	4
+	+	48	4
+	+	49	4
+	+	50	4
+	+	51	4
+	+	52	4
+	+	53	4
+	+	54	4
+	+	55	4
+	+	56	4
+	+	57	4
+	+	58	4
+	+	59	4
+	+	60	0
+	+	63	17
+	+	64	0
+	+	66	6
+	+	67	6
+	+	66	6
+	+	67	6
+	+	66	4
+	+	67	4
+	+	68	3
+	+	27	16
+	+	28	34
+	+	68	0
+
+> ~/BD/income_model/development/sample/sql/dmkk_przelewy.sql
+	*	1470382783	0
+	"	26	37
+	^	12	0
+	.	141	0
+	+	1	2
+	+	1	29
+	+	1	82
+	+	1	19
+	+	1	0
+	+	1	28
+	+	1	3
+	+	1	9
+	+	1	0
+	+	1	35
+	+	1	0
+	+	1	32
+	+	1	0
+	+	1	5
+	+	1	8
+	+	1	20
+	+	1	82
+	+	1	6
+	+	1	58
+	+	1	7
+	+	1	4
+	+	1	31
+	+	1	8
+	+	1	0
+	+	1	56
+	+	1	1
+	+	1	0
+	+	1	6
+	+	1	5
+	+	1	0
+	+	1	30
+	+	1	2
+	+	1	80
+	+	1	48
+	+	1	20
+	+	1	27
+	+	1	24
+	+	1	0
+	+	1	26
+	+	1	69
+	+	1	52
+	+	1	0
+	+	1	32
+	+	1	9
+	+	1	32
+	+	1	6
+	+	1	27
+	+	1	28
+	+	1	0
+	+	1	19
+	+	1	20
+	+	1	14
+	+	1	0
+	+	1	35
+	+	1	0
+	+	1	4
+	+	1	1
+	+	1	45
+	+	1	0
+	+	1	37
+	+	1	0
+	+	141	0
+
+> ~/klaudyna
+	*	1470381824	0
+	"	26	50
+	^	26	52
+	.	26	0
+	+	23	66
+	+	21	58
+	+	24	57
+	+	21	55
+	+	23	53
+	+	27	52
+	+	28	51
+	+	26	0
+
+> ~/BD/income_model/development/sample/sql/dmkk_przelewy_sandbox.sql
+	*	1470381096	0
+	"	3	19
+	.	4	0
+	+	17	1
+	+	26	0
+	+	19	35
+	+	28	42
+	+	37	37
+	+	48	39
+	+	17	0
+	+	1	2
+	+	4	0
+	+	2	78
+	+	3	20
+	+	4	3
+	+	6	1
+	+	4	0
+
+> ~/BD/income_model/development/analiza_danych/sql/v_table_view_mv.sql
+	*	1470380819	0
+	"	1	50
+	^	1	51
+	.	1	50
+	+	2	0
+	+	1	50
+
+> ~/BD/income_model/development/analiza_danych/sql/przelewy_dmkk.sql
+	*	1470380675	0
+	"	58	35
+	^	47	17
+	.	47	16
+	+	61	0
+	+	4	29
+	+	8	34
+	+	47	16
+
+> ~/BD/income_model/development/sample/sql/hdd99_dm_dmkk_colnames.tsv
+	*	1470298672	0
+	"	10498	0
+	.	1	0
+	+	1	0
+
+> ~/BD/income_model/development/sample/analiza/src/dane.sas
+	*	1470238855	0
+	"	78	164
