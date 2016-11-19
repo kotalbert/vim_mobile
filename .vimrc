@@ -7,6 +7,9 @@ set formatoptions=l
 
 set ruler
 
+set background=dark
+colorscheme solarized
+
 inoremap jk <ESC>
 vnoremap jk <ESC>
 syntax on
@@ -96,14 +99,12 @@ autocmd FileType text set colorcolumn=0 | set wrap
 
 if has("gui_running")
     inoremap <C-Space> <C-x><C-o>
-    colorscheme zenburn
     set langmenu=en_US
     let $LANG = 'en_US'
     source $VIMRUNTIME/delmenu.vim
     source $VIMRUNTIME/menu.vim
     let vimrplugin_r_path = 'C:\Program Files\R\R-3.3.0\bin\x64'
 else
-    colorscheme obsidian 
     let vimrplugin_r_path = 'C:\Program Files\R\R-3.3.0\bin\x64'
     inoremap <Nul> <C-x><C-o>
 endif
